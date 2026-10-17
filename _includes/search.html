@@ -1,0 +1,3 @@
+{%- assign l = page.lang | default: site.lang | default: "en" -%}
+{%- if l == "tr" -%}{%- assign ph = "Konu ara" -%}{%- assign idx = "/tr/search.json" -%}{%- assign none = "Yazı bulunamadı" -%}{%- else -%}{%- assign ph = "Search topic" -%}{%- assign idx = "/search.json" -%}{%- assign none = "No posts found" -%}{%- endif -%}
+<div class="search" role="search" data-lang="{{ l }}" data-index="{{ idx | relative_url }}" data-empty="{{ none }}"><input type="search" placeholder="{{ ph }}" aria-label="{{ ph }}" autocomplete="off" spellcheck="false" lang="{{ l }}"><div class="sr" hidden></div></div>

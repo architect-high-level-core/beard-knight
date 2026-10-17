@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /tr/search.json
+---
+{%- assign out = "" -%}
+[{% assign first = true %}{% for p in site.posts %}{% assign pl = p.lang | default: "en" %}{% if pl == "tr" %}{% unless first %},{% endunless %}{% assign first = false %}{"title":{{ p.title | jsonify }},"url":{{ p.url | relative_url | jsonify }},"date":"{% include date.html date=p.date lang=pl %}","image":{{ p.image | relative_url | jsonify }},"content":{{ p.content | strip_html | strip_newlines | jsonify }}}{% endif %}{% endfor %}]
