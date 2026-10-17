@@ -1,3 +1,4 @@
+{%- assign sorted = site.posts | sort: "date" | reverse -%}
 <div class="grid">
-{% for post in site.posts %}{% assign pl = post.lang | default: "en" %}{% if pl == include.lang %}<a class="tile" href="{{ post.url | relative_url }}">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">{% else %}<div class="ph"></div>{% endif %}<span class="t">{{ post.title }}</span><span class="d">{% include date.html date=post.date lang=pl %}</span></a>
+{% for post in sorted %}{% assign pl = post.lang | default: "en" %}{% if pl == include.lang %}<a class="tile" href="{{ post.url | relative_url }}">{% if post.image %}<img src="{{ post.image | relative_url }}" alt="{{ post.image_alt | default: post.title }}" loading="lazy">{% else %}<div class="ph"></div>{% endif %}<span class="t">{{ post.title }}</span><span class="d">{% include date.html date=post.date lang=pl %}</span></a>
 {% endif %}{% endfor %}</div>
