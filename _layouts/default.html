@@ -3,7 +3,11 @@
 <html lang="{{ l }}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
 {%- if l == "tr" -%}{%- assign tagline = site.data.i18n.tr.tagline -%}{%- else -%}{%- assign tagline = site.description -%}{%- endif %}
-<meta name="description" content="{{ tagline | escape }}">
+{%- assign meta_desc = page.description | default: tagline -%}
+<meta name="description" content="{{ meta_desc | strip_html | strip_newlines | escape }}">
+<meta property="og:description" content="{{ meta_desc | strip_html | strip_newlines | escape }}">
+{%- if page.keywords %}{% if page.keywords.first %}{% assign kw = page.keywords | join: ", " %}{% else %}{% assign kw = page.keywords %}{% endif %}
+<meta name="keywords" content="{{ kw | escape }}">{% endif %}
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32.png' | relative_url }}">
 <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
