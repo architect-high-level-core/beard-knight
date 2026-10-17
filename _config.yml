@@ -5,3 +5,14 @@ baseurl: ""
 url: https://beard-knight.com
 permalink: /:year/:month/:day/:title/
 timezone: Europe/Vienna
+defaults:
+  - scope:
+      path: "tr"
+    values:
+      lang: tr
+  - scope:
+      path: "tr"
+      type: posts
+    values:
+      lang: tr
+      permalink: /tr/:year/:month/:day/:title/

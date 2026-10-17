@@ -1,0 +1,10 @@
+en:
+  back: "← Back to all posts"
+  license: "License:"
+  home: "/"
+tr:
+  back: "← Tüm yazılara dön"
+  license: "Lisans:"
+  home: "/tr/"
+  tagline: "Erkek bakımı, sakince anlatılır."
+  months: [Oca, Şub, Mar, Nis, May, Haz, Tem, Ağu, Eyl, Eki, Kas, Ara]
