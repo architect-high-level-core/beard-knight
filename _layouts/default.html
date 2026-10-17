@@ -2,20 +2,23 @@
 {%- assign l = page.lang | default: site.lang | default: "en" -%}
 <html lang="{{ l }}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/favicon-32.png' | relative_url }}">
+<link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=Plus+Jakarta+Sans:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
-:root{--page:#faf8f7;--ink:#101010;--text:#2d2c29;--muted:#73716a;--line:#e7e2dd;--accent:#6b3e1f;--link:#70429a;--link-hover:#542873;
+:root{--page:#faf8f7;--ink:#101010;--text:#2d2c29;--muted:#73716a;--line:#e7e2dd;--accent:#563d22;--link:#70429a;--link-hover:#542873;
 --sans:"Plus Jakarta Sans",Arial,Helvetica,sans-serif;--mono:"IBM Plex Mono",Menlo,Consolas,monospace}
 *{box-sizing:border-box}
 html{background:var(--page)}
 body{margin:0;background:var(--page);color:var(--ink);font-family:var(--sans);font-weight:400;-webkit-font-smoothing:antialiased}
 .site-header{border-bottom:1px solid var(--line);background:var(--page)}
-.site-header .inner{position:relative;max-width:76rem;margin:0 auto;padding:1.1rem 1.5rem;display:flex;align-items:center;justify-content:center}
+.site-header .inner{position:relative;max-width:76rem;margin:0 auto;padding:.9rem 1.5rem;display:flex;align-items:center;justify-content:center}
 .langs{position:absolute;right:1.5rem;top:50%;transform:translateY(-50%);font-family:var(--mono);font-size:.68rem;letter-spacing:.12em;color:#a2a19b}
 .langs a{color:#a2a19b;text-decoration:none}.langs a:hover{color:var(--muted)}.langs a.on{color:var(--muted)}.langs span{margin:0 .35rem}
 .brand{font-family:var(--sans);font-weight:700;font-size:1.15rem;letter-spacing:-.02em;color:var(--ink);text-decoration:none;display:inline-flex;align-items:center;gap:.5rem}
-.brand::before{content:"";width:.95rem;height:.95rem;background:var(--accent);display:inline-block}
+.brand{line-height:0}.logo{display:block;height:84px;width:auto}@media(max-width:600px){.logo{height:56px}}
 main{max-width:52rem;margin:0 auto;padding:2.5rem 1.5rem 0}
 body.wide main{max-width:76rem}
 .site-footer{max-width:76rem;margin:5rem auto 0;padding:1.5rem;border-top:1px solid var(--line);font-family:var(--mono);font-size:.7rem;text-transform:uppercase;letter-spacing:.2em;color:var(--muted);text-align:center}
@@ -54,8 +57,9 @@ figure.header figcaption a{color:var(--muted)}
 .tile .t{display:block;font-family:var(--mono);font-weight:700;color:var(--accent);font-size:.9rem;line-height:1.4;margin-top:.75rem}
 .tile:hover .t{text-decoration:underline;text-underline-offset:.18em}
 .tile .d{display:block;font-family:var(--mono);font-size:.68rem;text-transform:uppercase;letter-spacing:.14em;color:var(--muted);margin-top:.4rem}
+@media(max-width:600px){.site-header .langs{right:1rem}}
 </style></head><body{% if page.wide %} class="wide"{% endif %}>
-<header class="site-header"><div class="inner"><a class="brand" href="{{ site.data.i18n[l].home | relative_url }}">{{ site.title }}</a>{% include langswitch.html %}</div></header>
+<header class="site-header"><div class="inner"><a class="brand" href="{{ site.data.i18n[l].home | relative_url }}"><img class="logo" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Beard Knight" width="163" height="90"></a>{% include langswitch.html %}</div></header>
 <main>{{ content }}</main>
 <footer class="site-footer">{% if l == "tr" %}{{ site.data.i18n.tr.tagline }}{% else %}{{ site.description }}{% endif %}</footer>
 </body></html>
