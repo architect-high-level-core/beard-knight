@@ -1,0 +1,7 @@
+title: Beard Knight
+description: Men's care, calmly explained.
+lang: en
+baseurl: ""
+url: https://beard-knight.com
+permalink: /:year/:month/:day/:title/
+timezone: Europe/Vienna
