@@ -1,0 +1,9 @@
+{%- assign l = page.lang | default: site.lang | default: "en" -%}
+{%- assign en_url = "/" -%}{%- assign tr_url = "/tr/" -%}
+{%- if page.collection == "posts" -%}
+  {%- assign d = page.date | date: "%Y-%m-%d" -%}
+  {%- for p in site.posts -%}{%- assign pd = p.date | date: "%Y-%m-%d" -%}{%- assign pl = p.lang | default: "en" -%}
+    {%- if pd == d -%}{%- if pl == "tr" -%}{%- assign tr_url = p.url -%}{%- else -%}{%- assign en_url = p.url -%}{%- endif -%}{%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+<nav class="langs" aria-label="Language"><a href="{{ en_url | relative_url }}" hreflang="en" lang="en"{% if l == "en" %} class="on" aria-current="page"{% endif %}>EN</a><span aria-hidden="true">·</span><a href="{{ tr_url | relative_url }}" hreflang="tr" lang="tr"{% if l == "tr" %} class="on" aria-current="page"{% endif %}>TR</a></nav>
