@@ -87,6 +87,11 @@ figure.header figcaption a{color:var(--muted)}
 /* keep EN and TR identical on phones: wide tables scroll inside the column instead of widening the page */
 .post-body{overflow-wrap:break-word}
 .post-body table{display:block;max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}
+/* mobile overflow guard: long URLs/words wrap, media and code never widen the page */
+.post-body a,.post-body li,.post-body p,figure.header figcaption,.post-title{overflow-wrap:anywhere}
+.post-body img,.post-body video,.post-body iframe,.post-body svg,.post-body embed,.post-body object{max-width:100%;height:auto}
+.post-body pre{max-width:100%;overflow-x:auto;white-space:pre}
+.post-body code{overflow-wrap:anywhere}
 </style></head><body{% if page.wide %} class="wide"{% endif %}>
 <header class="site-header"><div class="inner">{% include search.html %}<div class="brandwrap"><a class="brand" href="{{ site.data.i18n[l].home | relative_url }}"><img class="logo" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Beard Knight" width="163" height="90"></a><p class="tagline">{{ tagline }}</p></div>{% include langswitch.html %}</div></header>
 <main>{{ content }}</main>
