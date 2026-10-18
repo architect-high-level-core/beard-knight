@@ -3,6 +3,7 @@ layout: post
 title: "Sonbahar Erkek Parfümleri 2026: Vanilya, Deri ve İrisle Sezonun Lüks Kokuları"
 date: 2026-10-18 06:00:00 +0200
 tags: [men]
+pair: fall-fragrance
 description: "Sonbahar erkek parfümleri 2026: Creed Iris Debonair, Armani I Will, Nishane ve Halfeti ile sezonun lüks kokuları ve kalıcı parfüm sırları."
 keywords: "sonbahar erkek parfümleri, kış erkek parfümü 2026, lüks erkek parfümü, kalıcı erkek parfümü, en iyi sonbahar parfümü, vanilyalı erkek parfümü, deri notalı parfüm, odunsu erkek parfümü, gurme parfüm, niş parfüm, extrait de parfum, imza koku nasıl bulunur, parfüm nasıl sıkılır, parfüm kalıcılığı nasıl artırılır, Creed Iris Debonair, Loewe Wild Coffee, Giorgio Armani I Will, Nishane Hold Me Closer, Penhaligon's Halfeti, Terre d'Hermès, randevu parfümü, ofis parfümü, Beymen parfüm, Sephora erkek parfüm"
 image: /assets/img/tr-2026-10-18-sonbahar-erkek-parfumleri-2026-vanilya-deri-ve-irisle-sezonun-luks-kokulari.jpg

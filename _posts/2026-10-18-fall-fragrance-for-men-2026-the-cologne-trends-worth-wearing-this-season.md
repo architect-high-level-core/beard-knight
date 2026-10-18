@@ -3,6 +3,7 @@ layout: post
 title: "Fall Fragrance for Men 2026: The Cologne Trends Worth Wearing This Season"
 date: 2026-10-18 06:00:00 +0200
 tags: [men]
+pair: fall-fragrance
 description: "Fall fragrance for men 2026: boozy whiskey and cognac colognes, smoky vanilla, softer oud, the extrait boom, and how to make cologne last in cold air."
 keywords: "fall fragrance for men 2026, best fall colognes for men, men's cologne for fall, winter cologne for men, boozy cologne, whiskey cologne, cognac fragrance for men, vanilla cologne for men, woody vanilla fragrance, oud cologne for men, extrait de parfum vs eau de parfum, long-lasting cologne, how to make cologne last longer, how to apply cologne, date night cologne, office-safe fragrance, signature scent for men, luxury niche fragrance, Kilian Old Fashioned, Dior Sauvage Extrait, Armani I Will, D.S. & Durga Cognac Reign, Maison Francis Kurkdjian Oud Velvet Mood, fragrance layering"
 image: /assets/img/2026-10-18-fall-fragrance-for-men-2026-the-cologne-trends-worth-wearing-this-season.jpg

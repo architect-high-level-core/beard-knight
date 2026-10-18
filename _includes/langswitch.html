@@ -2,8 +2,16 @@
 {%- assign en_url = "/" -%}{%- assign tr_url = "/tr/" -%}
 {%- if page.collection == "posts" -%}
   {%- assign d = page.date | date: "%Y-%m-%d" -%}
+  {%- assign en_found = false -%}{%- assign tr_found = false -%}
+  {%- if page.pair -%}
+    {%- for p in site.posts -%}{%- if p.pair == page.pair -%}{%- assign pl = p.lang | default: "en" -%}
+      {%- if pl == "tr" -%}{%- assign tr_url = p.url -%}{%- assign tr_found = true -%}{%- else -%}{%- assign en_url = p.url -%}{%- assign en_found = true -%}{%- endif -%}
+    {%- endif -%}{%- endfor -%}
+  {%- endif -%}
   {%- for p in site.posts -%}{%- assign pd = p.date | date: "%Y-%m-%d" -%}{%- assign pl = p.lang | default: "en" -%}
-    {%- if pd == d -%}{%- if pl == "tr" -%}{%- assign tr_url = p.url -%}{%- else -%}{%- assign en_url = p.url -%}{%- endif -%}{%- endif -%}
+    {%- if pd == d -%}{%- if page.pair and p.pair and p.pair != page.pair -%}{%- continue -%}{%- endif -%}
+      {%- if pl == "tr" -%}{%- unless tr_found -%}{%- assign tr_url = p.url -%}{%- assign tr_found = true -%}{%- endunless -%}{%- else -%}{%- unless en_found -%}{%- assign en_url = p.url -%}{%- assign en_found = true -%}{%- endunless -%}{%- endif -%}
+    {%- endif -%}
   {%- endfor -%}
 {%- endif -%}
 <nav class="langs" aria-label="Language"><a href="{{ en_url | relative_url }}" hreflang="en" lang="en"{% if l == "en" %} class="on" aria-current="page"{% endif %}>EN</a><span aria-hidden="true">·</span><a href="{{ tr_url | relative_url }}" hreflang="tr" lang="tr"{% if l == "tr" %} class="on" aria-current="page"{% endif %}>TR</a></nav>
