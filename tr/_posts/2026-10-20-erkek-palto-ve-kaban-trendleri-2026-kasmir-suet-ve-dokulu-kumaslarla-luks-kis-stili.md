@@ -8,7 +8,7 @@ description: "Erkek palto ve kaban trendleri 2026: uzun ve kuşaklı paltolar, k
 keywords: "erkek palto trendleri 2026, erkek kaban modelleri 2026, kış kabanı erkek, kaşmir palto erkek, yün palto erkek, kaşe kaban erkek, kruvaze palto, kuşaklı palto erkek, uzun palto erkek, oversize kaban, süet ceket erkek 2026, kahverengi süet ceket, shearling yaka ceket, barn ceket erkek, field ceket, triko ceket, kazak ceket hibrit, sessiz lüks erkek modası, palto bakımı nasıl yapılır, yün palto nasıl temizlenir, Beymen erkek palto, Vakko palto, Canali palto, Dunhill palto, hangi palto alınır, 2026 kış erkek modası"
 image_alt: "Nehir kenarında bej uzun kaban giyen sakallı erkek; 2026 erkek palto ve kaban trendleri için şık bir kış görünümü"
 image: /assets/img/tr-2026-10-20-erkek-palto-ve-kaban-trendleri-2026-kasmir-suet-ve-dokulu-kumaslarla-luks-kis-stili.jpg
-image_credit: "Photo by John Diez on Pexels"
+image_credit: "Fotoğraf: John Diez, Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-bearded-man-wearing-beige-coat-7388750/"
