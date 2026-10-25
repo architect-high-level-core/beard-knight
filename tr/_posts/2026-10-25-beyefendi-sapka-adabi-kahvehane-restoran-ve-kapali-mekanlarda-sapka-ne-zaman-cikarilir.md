@@ -6,12 +6,12 @@ tags: [men]
 pair: hat-etiquette
 description: "Kapalı mekânlarda şapka adabı rehberi: Viyana kahvehaneleri, kafeler, restoranlar, barlar, oteller, evler, ofisler, asansörler, camiler, kiliseler ve tiyatrolarda şapka ne zaman çıkarılır, nerede takılı kalabilir, nereye konur, nasıl tutulur ve selam verilir; kasket ile fötr farkı, İngiltere, ABD, Avusturya ve Türkiye'deki gelenekler, fesin tarihi, 1925 Şapka Kanunu ve kış için kaliteli fötr şapka seçimi."
 keywords: "şapka adabı, şapka görgü kuralları, beyefendi şapka adabı, şapka ne zaman çıkarılır, kapalı mekanda şapka, restoranda şapka, kafede şapka, kahvehanede şapka, Viyana kahvehanesi, Wiener Kaffeehaus, asansörde şapka, camide şapka, cami ziyaret kuralları, kilisede şapka, tiyatroda şapka, otel lobisinde şapka, şapka nereye konur, vestiyer, şapka nasıl tutulur, şapkayla selam vermek, şapka çıkarmak, milli marş şapka, kasket adabı, bere adabı, beyzbol şapkası kapalı mekan, fötr şapka, erkek fötr şapka, kasket, fes tarihi, II. Mahmud fes, Şapka Kanunu 1925, Şapka İktisası Hakkında Kanun, Borsalino, Beymen şapka, kışlık erkek şapka, lüks şapka, centilmen stili"
-image_alt: "Gri takım elbiseli, yelekli ve gri kasketli sakallı bir adam, İstanbul'da bir lokantanın önünde oturmuş, kucağında deve tüyü paltosuyla"
-image: /assets/img/tr-2026-10-25-beyefendi-sapka-adabi.jpg
+image_alt: "Kahverengi kareli tüvit ceketli, kıvırcık saçlı ve sakallı bir beyefendi, selam verir gibi koyu renkli keçe şapkasını kenarından tutup başından kaldırıyor"
+image: /assets/img/tr-2026-10-25-beyefendi-sapka-adabi-v2.jpg
 image_credit: "Fotoğraf: furkanfdemir, Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
-image_source_url: "https://www.pexels.com/photo/elegant-adult-guy-in-hat-sitting-near-shabby-cafeteria-entrance-6207170/"
+image_source_url: "https://www.pexels.com/photo/bearded-man-taking-off-trendy-hat-6207031/"
 ---
 
 Sonbahar yeniden şapka mevsimi. İyi bir fötr ya da kaliteli bir kasket çiseleyen yağmuru tutar, bakımlı bir sakalı çerçeveler ve paltoyu hiçbir aksesuarın yapamadığı kadar tamamlar. Ama gerçek bir şapka, pek çok erkeğin unuttuğu küçük bir sorumluluk da getirir: **ne zaman çıkarılacağını bilmek**.

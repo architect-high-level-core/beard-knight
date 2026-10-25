@@ -6,12 +6,12 @@ tags: [men]
 pair: boot-trends-2026
 description: "Men's boot trends for fall 2026: pointier Chelsea boots, velvety suede, lugged low-profile hikers and weather-ready soles, plus premium picks and care tips."
 keywords: "men's boot trends fall 2026, men's boots 2026, Chelsea boots for men, best Chelsea boots, suede Chelsea boots, men's suede boots, pointed toe Chelsea boots, waterproof Chelsea boots, lug sole boots men, low-profile hiking boots, how to wear Chelsea boots with jeans, how to care for suede boots, Goodyear welted boots, R.M. Williams Craftsman, Crockett & Jones Chelsea 8, Brunello Cucinelli boots, luxury men's boots, fall footwear for men, men's fall style"
-image_alt: "Men's boot trends fall 2026: sand suede Chelsea boots worn with light blue denim"
-image: /assets/img/2026-10-25-mens-boot-trends-fall-2026.jpg
-image_credit: "Shivang kushwaha on Pexels"
+image_alt: "Men's boot trends fall 2026: a man in khaki chinos and a shearling-trimmed jacket tying the laces of his dark brown leather lace-up boots on an asphalt path scattered with autumn leaves"
+image: /assets/img/2026-10-25-mens-boot-trends-fall-2026-v2.jpg
+image_credit: "Maksim Goncharenok on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
-image_source_url: "https://www.pexels.com/photo/stylish-suede-chelsea-boots-with-denim-jeans-40140187/"
+image_source_url: "https://www.pexels.com/photo/a-person-tying-the-lace-of-his-brown-leather-boots-9930072/"
 ---
 
 The clocks have gone back, the sidewalks are wet, and it is officially boot season. The big men's boot trends for fall 2026 are clear: the Chelsea boot is back at the center, toes are getting a little sharper, suede is getting softer and richer, and rugged lug soles are moving from the trail into the city.
