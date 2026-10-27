@@ -6,7 +6,7 @@ tags: [men]
 description: "Kış sakal bakımı 2026: 2026'nın sakal modelleri, sakal yağı seçimi, doğru yıkama sıklığı ve Türkiye'de bulunan lüks sakal yağları tek rehberde."
 keywords: "kış sakal bakımı, kışın sakal bakımı nasıl yapılır, sakal yağı, en iyi sakal yağı, lüks sakal yağı, sakal yağı nasıl kullanılır, sakal balmı, sakal şampuanı, sakal kaşıntısı, sakal kepeği, sakal altı cilt kuruluğu, sakal modelleri 2026, kutu sakal, box beard, kirli sakal, yumuşak hatlı sakal, yüz şekline göre sakal, Tom Ford sakal yağı, Dolce Gabbana sakal yağı, Beymen sakal bakım, Sephora sakal yağı, erkek bakım rutini"
 image_alt: "Berber, sakallı bir müşterinin sakal hattını ustura ile düzeltiyor; kış sakal bakımı için profesyonel sakal düzeltme"
-image_credit: "Photo by alexandre saraiva carniato on Pexels"
+image_credit: "Fotoğraf: alexandre saraiva carniato, Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-barber-shaving-the-beard-of-a-client-5568412/"
