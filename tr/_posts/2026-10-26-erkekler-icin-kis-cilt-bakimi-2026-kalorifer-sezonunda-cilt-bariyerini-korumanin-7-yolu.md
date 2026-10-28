@@ -5,12 +5,12 @@ date: 2026-10-26 06:00:00 +0100
 tags: [men]
 description: "Erkekler için kış cilt bakımı 2026: kalorifer sezonunda cilt bariyeri, seramid, kışın güneş kremi, retinol ve sakal altı kuruluğa dermatolog önerileri."
 keywords: "erkekler için kış cilt bakımı, erkek cilt bakımı kış 2026, cilt bariyeri nasıl güçlendirilir, kalorifer cilt kuruluğu, seramid içeren nemlendirici, kışın güneş kremi kullanılır mı, kışın retinol kullanımı, erkek yüz nemlendiricisi, sakal altı kuruluk, sakal kepeği nasıl geçer, seboreik dermatit sakal, kuru cilt için krem erkek, iç ortam nem oranı cilt, lüks erkek cilt bakım ürünleri, kış cilt bakım rutini erkek"
-image_alt: "Erkekler için kış cilt bakımı: bornozlu sakallı erkek banyo aynasında cildini inceliyor"
-image_credit: "Fotoğraf: Diva Plavalaguna, Pexels"
+image_alt: "Siyah tişörtlü, sakallı açık tenli bir adam gülümserken yüzüne fırçayla beyaz kil maskesi uygulanıyor"
+image_credit: "Fotoğraf: Roman Odintsov, Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
-image_source_url: "https://www.pexels.com/photo/man-wearing-bathrobe-looking-at-the-mirror-5710293/"
-image: /assets/img/tr-2026-10-26-erkekler-icin-kis-cilt-bakimi-2026.jpg
+image_source_url: "https://www.pexels.com/photo/person-applying-facial-cream-to-a-bearded-man-5912294/"
+image: /assets/img/tr-2026-10-26-erkekler-icin-kis-cilt-bakimi-2026-v2.jpg
 ---
 
 Kaloriferler yandı, sabahlar ayaz, ofisler kuru ve sıcak: **erkekler için kış cilt bakımı** tam da bu hafta önem kazanıyor. Türk dermatologları son haftalarda aynı noktaya dikkat çekiyor: Kışın asıl mesele "biraz kuruluk" değil, cildin koruyucu bariyerinin zayıflaması. Aşağıda Türk kaynaklarından derlenmiş, standartları yüksek erkekler için yedi güncel başlık ve seçkin ürün önerileri var.

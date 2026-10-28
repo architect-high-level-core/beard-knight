@@ -5,12 +5,12 @@ date: 2026-10-26 06:00:00 +0100
 tags: [men]
 description: "Men's winter skin care 2026: protect your skin barrier with ceramides, richer creams, smart retinol use, winter SPF and care for the skin under your beard."
 keywords: "men's winter skin care, winter skin care routine for men, skin barrier repair, ceramide moisturizer for men, retinol in winter, retinol sandwich method, winter sunscreen for men, SPF in winter, dry skin under beard, beard dandruff, seborrheic dermatitis beard, best winter moisturizer for men, luxury skincare for men, how to repair damaged skin barrier, why is my face dry in winter, heating season dry skin, transepidermal water loss, gel to cream moisturizer switch, premium men's grooming"
-image_alt: "Bearded man applying face cream as part of his men's winter skin care routine"
-image_credit: "Photo by August de Richelieu on Pexels"
+image_alt: "Fair-skinned man with tousled dark hair in a black T-shirt brushing a grey clay face mask onto his cheek in a bright room"
+image_credit: "Roman Odintsov on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
-image_source_url: "https://www.pexels.com/photo/a-man-applying-face-cream-on-his-face-7433337/"
-image: /assets/img/2026-10-26-mens-winter-skin-care-2026.jpg
+image_source_url: "https://www.pexels.com/photo/reflection-of-a-man-on-the-mirror-5912287/"
+image: /assets/img/2026-10-26-mens-winter-skin-care-2026-v2.jpg
 ---
 
 The radiator clicks on, the wind turns sharp, and within a week your face feels tight by noon. Men's winter skin care is not about adding ten new steps. It is about protecting one thing: your skin barrier. Here is what dermatologists, grooming editors and the latest search data say about keeping your face (and the skin under your beard) calm, comfortable and sharp all season.
