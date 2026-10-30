@@ -2,6 +2,7 @@
 layout: post
 title: "Men's Suit Trends Fall 2026: Relaxed Tailoring, Double-Breasted and the Return of Flannel"
 date: 2026-10-28 06:00:00 +0100
+pair: suit-trends-fall-2026
 tags: [men]
 description: "Men's suit trends fall 2026: relaxed soft tailoring, the low double-breasted, grey flannel, brown suits, corduroy and how to wear a suit with a beard."
 keywords: "men's suit trends fall 2026, suit trends 2026, fall winter 2026 menswear trends, relaxed tailoring, soft tailoring, relaxed fit suit, double-breasted suit 2026, low double-breasted jacket, how to wear a double-breasted suit, grey flannel suit, flannel suit for winter, brown suit 2026, is brown the new navy, corduroy suit, velvet suit men, textured suiting, tweed suit, high-rise pleated trousers, wide leg suit trousers, Neapolitan tailoring, spalla camicia, half canvas suit, best luxury suits for men, premium men's suits, Brunello Cucinelli suit, Suitsupply Roma suit, Natalino flannel jacket, Todd Snyder Wythe suit, how to wear a suit with a beard, beard and suit, best beard length for a suit, what to wear under a suit in winter, suit with knitwear, formal parka over suit, men's tailoring trends, menswear trends October 2026"

@@ -2,6 +2,7 @@
 layout: post
 title: "Erkek Takım Elbise Trendleri 2026 Sonbahar-Kış: Rahat Kesim, Kahverengi ve Flanelle Lüks Klasik Giyim"
 date: 2026-10-28 06:00:00 +0100
+pair: suit-trends-fall-2026
 tags: [men]
 description: "Erkek takım elbise trendleri 2026 sonbahar-kış: rahat kesim, omuzdan düşen ceket, kahverengi, flanel ve kruvaze takımlar. Sakallı erkeğe lüks rehber."
 keywords: "erkek takım elbise trendleri 2026, takım elbise trendleri sonbahar kış 2026, erkek klasik giyim trendleri, rahat kesim takım elbise, relaxed fit takım elbise, oversize takım elbise, kruvaze takım elbise, kruvaze ceket, kahverengi takım elbise, acı kahve takım elbise, flanel takım elbise, kışlık takım elbise, dokulu kumaş, balıksırtı ceket, kazayağı blazer, ekose ceket, pileli pantolon, yüksek bel pantolon, geniş paça pantolon, kravat nasıl kombinlenir, bordo kravat, sakallı erkek takım elbise, sakala uygun takım elbise, lüks takım elbise, Brunello Cucinelli takım elbise, Canali takım elbise, Beymen takım elbise, Altınyıldız Classics, takım elbise nasıl seçilir, 2026 erkek modası"
