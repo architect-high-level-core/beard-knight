@@ -12,6 +12,9 @@ image_credit: "Photo by Vitaly Gorbachev on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/close-up-shot-of-a-shaving-beard-10775081/"
+audio: /assets/audio/clear-shave-gel-why-non-foaming-gel-is-the-secret-to-sharp-beard-lines.mp3
+audio_voice: Guy
+audio_duration: "16:33"
 ---
 
 Every bearded man knows the moment. Your cheeks are covered in white foam, you lift the razor to tidy the cheek line, and you can't see the line at all. You guess, you swipe, and the beard is now slightly lopsided.
