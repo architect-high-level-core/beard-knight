@@ -8,6 +8,9 @@ keywords: "beard dye, beard dye types, temporary beard dye, semi-permanent beard
 image_alt: "Beard dye kit with mixing tray, application brush, gloves and a beard comb on a bathroom counter"
 image: /assets/img/2026-10-14-beard-dye-explained-temporary-vs-semi-permanent-vs-permanent.jpg
 image_credit: "Illustration: AI-generated"
+audio: /assets/audio/beard-dye-explained-temporary-vs-semi-permanent-vs-permanent.mp3
+audio_voice: Ryan
+audio_duration: "16:53"
 ---
 
 Grey in a beard can look great, and plenty of men embrace it. Others would rather soften it a little. Either way, **beard dye** is a choice worth making with good information, because facial skin is sensitive and the results sit right in the middle of your face.
