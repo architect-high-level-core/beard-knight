@@ -11,6 +11,9 @@ image_credit: "Photo by Eugene Samoilov on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/fashionable-man-in-winter-coat-on-beach-35879172/"
+audio: /assets/audio/mens-leather-gloves-and-cashmere-scarves-2026-the-winter-accessories-worth-investing-in.mp3
+audio_voice: Guy
+audio_duration: "9:31"
 ---
 
 November is the month when a good coat stops being enough. The details that finish a cold-weather look are the ones closest to your hands and your face: a pair of well-cut leather gloves and a soft cashmere scarf. In this guide to men's leather gloves and cashmere scarves for 2026, we cover the season's colors, how gloves should really fit, what separates fine leather from the rest, and the scarf knots that work with a buttoned overcoat.
