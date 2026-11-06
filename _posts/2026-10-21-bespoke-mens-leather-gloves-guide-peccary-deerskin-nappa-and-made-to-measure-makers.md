@@ -12,6 +12,9 @@ image_credit: "Photo by Milad Mohammadi on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-wearing-black-coat-and-leather-gloves-13047444/"
+audio: /assets/audio/bespoke-mens-leather-gloves-guide-peccary-deerskin-nappa-and-made-to-measure-makers.mp3
+audio_voice: Guy
+audio_duration: "20:13"
 ---
 
 A beautiful pair of leather gloves is one of the quiet signatures of a well-dressed man. They are the first thing people see when you shake hands in winter. They frame a good overcoat, and they show that you care about details few others notice. Like a fine pair of shoes, great gloves are a craft object. The best are cut by hand from carefully chosen skins, sewn with tiny, even stitches and finished with decorative "points" on the back.
