@@ -11,6 +11,9 @@ image_credit: "Photo by Alex Urezkov on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/bearded-man-having-a-haircut-10024235/"
+audio: /assets/audio/mens-haircut-trends-fall-2026-soft-tapers-textured-crops-and-the-matte-finish.mp3
+audio_voice: Andrew
+audio_duration: "7:31"
 ---
 
 Fall is when men book the haircut that has to carry them through dark mornings, hats and heavy coats. The **men's haircut trends of fall 2026** all point the same way: softer tapers instead of razor-sharp fades, texture instead of shine, and cuts that still look good three weeks after you leave the chair.
