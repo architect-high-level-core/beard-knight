@@ -7,6 +7,9 @@ image_alt: "Brown suede penny loafers, a leather Chelsea boot and a lug-soled hi
 description: "Flip-flop season is officially over, and for anyone who cares about shoes, that's good news. Autumn is the one time of year when almost every kind of…"
 image: /assets/img/2026-10-17-boot-season-is-here-the-mens-shoe-trends-worth-buying-this-fall.jpg
 image_credit: "Illustration: AI-generated"
+audio: /assets/audio/boot-season-is-here-the-mens-shoe-trends-worth-buying-this-fall.mp3
+audio_voice: Guy
+audio_duration: "14:27"
 ---
 
 Flip-flop season is officially over, and for anyone who cares about shoes, that's good news. Autumn is the one time of year when almost every kind of footwear makes sense: boots, loafers, derbies, chunky sneakers, even something a little unexpected.

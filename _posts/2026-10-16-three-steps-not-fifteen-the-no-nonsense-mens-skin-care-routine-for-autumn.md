@@ -7,6 +7,9 @@ image_alt: "Three minimalist skin care bottles - cleanser, moisturizer and sunsc
 description: "Scroll through any social feed this month and you'll find two very different conversations about men and skin care. On one side, there's the joke that men…"
 image: /assets/img/2026-10-16-three-steps-not-fifteen-the-no-nonsense-mens-skin-care-routine-for-autumn.jpg
 image_credit: "Illustration: AI-generated"
+audio: /assets/audio/three-steps-not-fifteen-the-no-nonsense-mens-skin-care-routine-for-autumn.mp3
+audio_voice: Ryan
+audio_duration: "16:49"
 ---
 
 Scroll through any social feed this month and you'll find two very different conversations about men and skin care.
