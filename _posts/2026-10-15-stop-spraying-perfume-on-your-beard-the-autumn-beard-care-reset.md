@@ -4,6 +4,7 @@ title: "Stop Spraying Perfume on Your Beard: The Autumn Beard-Care Reset"
 date: 2026-10-15 06:00:00 +0200
 tags: [men]
 image_alt: "Beard oil bottle, wooden comb, boar bristle brush and a tin of beard balm on a dark oak shelf with autumn leaves"
+description: "Every October the same thing happens. The heating goes on, the wind picks up, scarves come out of storage, and somewhere in the middle of all that your…"
 image: /assets/img/2026-10-15-stop-spraying-perfume-on-your-beard-the-autumn-beard-care-reset.jpg
 image_credit: "Illustration: AI-generated"
 ---

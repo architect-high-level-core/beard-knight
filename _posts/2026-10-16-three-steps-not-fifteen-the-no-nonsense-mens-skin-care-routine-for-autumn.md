@@ -4,6 +4,7 @@ title: "Three Steps, Not Fifteen: The No-Nonsense Men's Skin Care Routine for Au
 date: 2026-10-16 06:00:00 +0200
 tags: [men]
 image_alt: "Three minimalist skin care bottles - cleanser, moisturizer and sunscreen - lined up on a stone bathroom counter in morning light"
+description: "Scroll through any social feed this month and you'll find two very different conversations about men and skin care. On one side, there's the joke that men…"
 image: /assets/img/2026-10-16-three-steps-not-fifteen-the-no-nonsense-mens-skin-care-routine-for-autumn.jpg
 image_credit: "Illustration: AI-generated"
 ---

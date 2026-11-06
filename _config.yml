@@ -1,11 +1,40 @@
 title: Beard Knight
 description: "Everything you need to know as a man"
+alternate_name: "Beard Knight Blog"
 lang: en
 baseurl: ""
 url: https://beard-knight.com
 permalink: /:year/:month/:day/:title/
 timezone: Europe/Vienna
+exclude: [scripts, Gemfile, Gemfile.lock, node_modules, vendor, README.md]
+
+# Author / publisher (used by the SEO head, JSON-LD, feed and llms.txt)
+author:
+  name: Arnold Kahr
+  url: /about/
+logo: /assets/img/apple-touch-icon.png
+default_image: /assets/img/logo.png
+
+# Search-engine verification codes. Paste the code (only the content="..." value)
+# when you have it; empty/null values print nothing.
+google_site_verification:
+bing_site_verification:
+webmaster_verifications:
+  google:
+  bing:
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+feed:
+  path: /feed.xml
+
 defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "assets" }
+    values: { sitemap: false }
   - scope:
       path: "tr"
     values:
