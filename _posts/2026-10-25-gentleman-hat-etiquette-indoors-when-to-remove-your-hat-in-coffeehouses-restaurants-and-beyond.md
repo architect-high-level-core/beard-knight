@@ -12,6 +12,9 @@ image_credit: "Sami Abdullah on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-in-brown-jacket-waving-hat-on-the-roadside-7499210/"
+audio: /assets/audio/gentleman-hat-etiquette-indoors-when-to-remove-your-hat-in-coffeehouses-restaurants-and-beyond.mp3
+audio_voice: Andrew
+audio_duration: "18:46"
 ---
 
 Autumn is hat season again. A good felt fedora or trilby keeps off the drizzle, frames a well-groomed beard and finishes an overcoat like nothing else. But a proper hat comes with a small responsibility many men have forgotten: knowing **when to take it off**.

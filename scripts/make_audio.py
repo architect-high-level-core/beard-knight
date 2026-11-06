@@ -213,7 +213,7 @@ def fmt_dur(sec):
     return f"{h}:{m:02d}:{s:02d}" if h else f"{m}:{s:02d}"
 
 
-def chunks_of(text, limit=6000):
+def chunks_of(text, limit=2500):
     """Split at paragraph boundaries into pieces of at most ~limit chars (long single
     requests sometimes fail with NoAudioReceived; small pieces are reliable)."""
     out, cur = [], ""
