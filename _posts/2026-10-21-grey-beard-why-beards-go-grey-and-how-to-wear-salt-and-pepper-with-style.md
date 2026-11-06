@@ -12,6 +12,9 @@ image_credit: "Photo by iddea photo on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-with-grey-hair-and-beard-sitting-on-a-chair-27789019/"
+audio: /assets/audio/grey-beard-why-beards-go-grey-and-how-to-wear-salt-and-pepper-with-style.mp3
+audio_voice: Ryan
+audio_duration: "20:18"
 ---
 
 For many men, the first grey hair does not appear at the temples. It appears in the beard: a single silver strand at the chin, a pale streak under the lower lip, or a sprinkle of white along the jaw. A few years later, the beard can look distinctly salt and pepper while the hair on top is still almost entirely dark.
