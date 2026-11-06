@@ -11,6 +11,9 @@ image_credit: "Photo by Gizem toprak on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/close-up-of-shoe-shine-process-in-workshop-37358113/"
+audio: /assets/audio/winter-shoe-care-2026-how-to-protect-leather-and-suede-shoes-from-salt-rain-and-slush.mp3
+audio_voice: Ryan
+audio_duration: "8:51"
 ---
 
 A good pair of shoes is the quiet signature of a well-dressed man, and winter is the season that tests it hardest. Road salt, slush and the radiator by the front door can undo years of patina in a single week. Here is the winter shoe care routine that keeps fine leather and suede looking sharp until spring, built from shoe restorers, leather specialists and the most obsessive shoe forum on the internet.
