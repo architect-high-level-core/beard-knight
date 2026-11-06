@@ -12,6 +12,9 @@ image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/bowl-being-poured-with-yellow-liquid-33783/"
 image: /assets/img/2026-10-28-olive-oil-and-mens-health.jpg
+audio: /assets/audio/olive-oil-and-mens-health-evoo-predimed-polyphenols-and-how-to-choose-the-best.mp3
+audio_voice: Andrew
+audio_duration: "12:52"
 ---
 
 Few foods have as much serious research behind them as extra virgin olive oil. It is the backbone of the Mediterranean diet, the subject of one of the largest nutrition trials ever run, and increasingly a luxury product in its own right, with single-estate bottles that are judged like fine wine. This guide summarizes what the major studies say about olive oil and men's health (heart health, longevity, cholesterol, polyphenols and the much-asked question of testosterone) and explains how to choose a genuinely excellent extra virgin olive oil.
