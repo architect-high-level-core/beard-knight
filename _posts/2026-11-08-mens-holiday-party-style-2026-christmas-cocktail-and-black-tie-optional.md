@@ -11,6 +11,9 @@ image_credit: "Nadtochiy Photography"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/elegant-black-leather-shoes-with-red-bow-tie-34422206/"
+audio: /assets/audio/mens-holiday-party-style-2026-christmas-cocktail-and-black-tie-optional.mp3
+audio_voice: Guy
+audio_duration: "16:56"
 ---
 
 The invitations are already arriving: the company Christmas party, a friend's cocktail evening, a New Year's Eve dinner that says "black tie optional." Men's holiday party style in 2026 rewards the gentleman who reads the dress code correctly and then adds one deliberate festive element—velvet, a fine roll neck, a jewel tone—rather than a costume. Here is what to wear to Christmas parties and cocktail nights, from the velvet dinner jacket to the overcoat and polished Oxfords that frame the whole outfit.
