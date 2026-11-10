@@ -11,6 +11,9 @@ image_credit: "Alexander Mass"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/elegant-brown-leather-shoes-on-wooden-floor-31280435/"
+audio: /assets/audio/mens-dress-shoe-trends-winter-2026-oxfords-derbies.mp3
+audio_voice: Guy
+audio_duration: "8:52"
 ---
 
 For a decade, the sneaker sat at the center of the men's wardrobe. This winter the leather shoe is taking that spot back. The runways, the trade fairs and the menswear editors all point the same way in 2026: proper Oxfords, versatile derbies and rich patina leathers are again the clearest sign of good taste. Here are the men's dress shoe trends for winter 2026, what they mean for your rotation, and the Goodyear-welted shoes worth investing in.
