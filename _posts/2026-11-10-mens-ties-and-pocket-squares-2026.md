@@ -12,6 +12,9 @@ image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/person-in-blue-suit-jacket-and-black-and-white-striped-necktie-11094619/"
 pair: ties-pocket-squares-2026
+audio: /assets/audio/mens-ties-and-pocket-squares-2026.mp3
+audio_voice: Guy
+audio_duration: "15:19"
 ---
 
 A tie and a pocket square are two of the smallest decisions a man makes before a winter dinner, and two of the ones people actually notice. In the holiday weeks of 2026, when invitations run from a client's lunch to a family evening in a dark jacket, the question is not whether you own a black tie. It is whether the knot sits properly, whether the silk or the grenadine has the right weight, and whether the square in the breast pocket talks to the tie without copying it. This guide is about those details: the knots, the cloths, the folds, and the houses that still make them by hand.
