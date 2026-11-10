@@ -11,6 +11,7 @@ image_credit: "Rohit Sharma"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/product-shot-of-an-elegant-brown-leather-shoe-26587834/"
+pair: dress-shoes-2026
 ---
 
 Bir kombinin karakterini tek başına değiştirebilen parça çoğu zaman ayakkabıdır. Kış yaklaşırken iyi bir erkek klasik ayakkabı, hem takım elbiseyi hem de kot ve kazakla kurulan şık günlük stili taşıyan en önemli yatırımdır. Bu rehberde Oxford mu derby mi sorusunu, hakiki deri ve dikişli taban gibi kalite işaretlerini, kışa uygun tabanı ve 2026 sonbahar-kış sezonunun renklerini bir araya getirdik.

@@ -11,6 +11,7 @@ image_credit: "Alexander Mass"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/elegant-brown-leather-shoes-on-wooden-floor-31280435/"
+pair: dress-shoes-2026
 audio: /assets/audio/mens-dress-shoe-trends-winter-2026-oxfords-derbies.mp3
 audio_voice: Guy
 audio_duration: "8:52"
