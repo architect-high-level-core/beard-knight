@@ -14,6 +14,13 @@ image_source_url: "https://www.pexels.com/photo/man-combing-his-beard-9395857/"
 audio: /assets/audio/patchy-beard-fix-2026-styles-minoxidil-microneedling.mp3
 audio_voice: Guy
 audio_duration: "10:22"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 90, title: "Why Your Beard Grows in Patches (and…"}
+  - {t: 167, title: "The Best Beard Styles for a Patchy…"}
+  - {t: 276, title: "Minoxidil for Beard Growth"}
+  - {t: 396, title: "Microneedling and Dermarollers"}
+  - {t: 546, title: "FAQ: Patchy Beard Questions"}
 ---
 
 No-Shave November is halfway done, and this is the week many men look in the mirror and see the same thing: a strong mustache, a decent chin, and cheeks that simply refuse to join the party. A patchy beard is one of the most common grooming frustrations, and also one of the most fixable, as long as you know which tools actually work. Here is the patchy beard fix for 2026: what barbers, dermatologists and the beard community say about patience, styling, minoxidil and microneedling, plus the premium tools worth owning.
