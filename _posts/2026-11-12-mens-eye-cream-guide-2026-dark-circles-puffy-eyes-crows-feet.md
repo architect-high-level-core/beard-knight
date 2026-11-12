@@ -11,6 +11,19 @@ image_credit: "Viktoriia Kondratiuk on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-bottle-of-essential-oil-on-a-black-background-18708753/"
+audio: /assets/audio/mens-eye-cream-guide-2026-dark-circles-puffy-eyes-crows-feet.mp3
+audio_voice: Andrew
+audio_duration: "14:50"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 116, title: "Start with the right diagnosis"}
+  - {t: 184, title: "Dark circles under the eyes"}
+  - {t: 267, title: "Puffy eyes in the morning"}
+  - {t: 344, title: "Crow's feet"}
+  - {t: 407, title: "The ingredients that actually earn a…"}
+  - {t: 528, title: "How to apply it"}
+  - {t: 690, title: "When a cream is not enough"}
+  - {t: 796, title: "FAQ"}
 ---
 
 Late nights, dry heated rooms and winter light all show up first around your eyes. The skin there is the thinnest on the face, it moves with every blink, and it has little reserve when sleep, salt, alcohol or sun get the better of it. This men's eye cream guide for 2026 explains what really causes dark circles, puffy eyes and crow's feet, which habits dermatologists and eye doctors recommend, how to use retinol on this delicate area, and which luxury eye creams belong on a gentleman's shelf.
