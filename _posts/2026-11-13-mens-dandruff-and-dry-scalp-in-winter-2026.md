@@ -11,6 +11,18 @@ image_credit: "Pavel Danilyuk on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-barber-shampooing-a-client-7518730/"
+audio: /assets/audio/mens-dandruff-and-dry-scalp-in-winter-2026.mp3
+audio_voice: Andrew
+audio_duration: "16:00"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 173, title: "Dandruff vs dry scalp"}
+  - {t: 263, title: "When flakes point to seborrheic…"}
+  - {t: 346, title: "The anti-dandruff ingredients that…"}
+  - {t: 463, title: "How to use dandruff shampoo the right…"}
+  - {t: 539, title: "The winter routine"}
+  - {t: 764, title: "Product picks"}
+  - {t: 834, title: "FAQ"}
 ---
 A navy suit and a charcoal overcoat are unforgiving: every white flake on the shoulder shows. Cold air outside and dry, heated air inside make men's dandruff and dry scalp worse each winter, and the itch tends to arrive at the worst possible moment. This 2026 guide explains why winter dandruff flares up, how to tell a simply dry scalp from dandruff and from seborrheic dermatitis, which anti-dandruff ingredients dermatologists name, how to use a dandruff shampoo properly, and which premium shampoos belong in a gentleman's shower.
 
