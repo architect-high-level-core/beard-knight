@@ -11,6 +11,20 @@ image_credit: "Pavel Danilyuk on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/photo-of-a-man-in-a-white-dress-shirt-fixing-his-necktie-7119080/"
+audio: /assets/audio/mens-deodorant-body-odor-guide-2026.mp3
+audio_voice: Guy
+audio_duration: "21:08"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 126, title: "What causes body odor in men?"}
+  - {t: 246, title: "Deodorant vs antiperspirant"}
+  - {t: 359, title: "How to apply antiperspirant"}
+  - {t: 488, title: "The aluminum-free and luxury deodorant…"}
+  - {t: 609, title: "Is aluminum in antiperspirant safe?"}
+  - {t: 704, title: "Underarm care, body wash and the…"}
+  - {t: 817, title: "Deodorant and cologne pairing"}
+  - {t: 926, title: "When sweating is a medical issue"}
+  - {t: 1130, title: "FAQ"}
 ---
 A bespoke suit, a polished pair of oxfords and a carefully chosen cologne lose much of their effect if the first thing people notice is underarm odor or a dark sweat mark on a white shirt. Men's deodorant used to be a quick drugstore purchase. In 2026 it has become a small luxury category of its own, with fragrance houses and clean-beauty brands selling refined, aluminum-free formulas that look good on a bathroom shelf. This guide explains what actually causes body odor, the real difference between a deodorant and an antiperspirant, why dermatologists say you should apply antiperspirant at night on dry skin, what the science says about aluminum, how to care for your underarms in the shower, how to pair a deodorant with your fragrance, and when heavy sweating is a medical issue worth discussing with a doctor.
 
