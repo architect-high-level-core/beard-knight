@@ -11,6 +11,20 @@ image_credit: "Katya Kozlenko"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/close-up-of-oil-capsules-15834199/"
+audio: /assets/audio/vitamin-d-for-men-in-winter-2026.mp3
+audio_voice: Guy
+audio_duration: "20:07"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 134, title: "Why winter switches off the sunshine…"}
+  - {t: 314, title: "How much vitamin D should a man take?"}
+  - {t: 454, title: "The Endocrine Society 2024 guideline"}
+  - {t: 561, title: "The 25(OH)D blood test"}
+  - {t: 665, title: "Vitamin D and testosterone"}
+  - {t: 766, title: "Winter blues, muscle and bones"}
+  - {t: 847, title: "Vitamin D, hair and the beard"}
+  - {t: 993, title: "Premium picks"}
+  - {t: 1090, title: "FAQ: vitamin D for men in winter"}
 ---
 
 The days are short, the light is low and most of your waking hours are spent under office lights, in a car or behind glass. For a lot of men, that is the season when **vitamin D** quietly slips. Known as the "sunshine vitamin", vitamin D supports bones, muscles, nerves and the immune system, and in winter the main supply route – your own skin – can almost shut down.
