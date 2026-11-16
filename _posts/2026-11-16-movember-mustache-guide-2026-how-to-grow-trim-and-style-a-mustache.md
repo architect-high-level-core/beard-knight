@@ -11,6 +11,20 @@ image_credit: "Tony Flood on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/beard-grooming-tools-and-mirror-on-table-9201296/"
+audio: /assets/audio/movember-mustache-guide-2026-how-to-grow-trim-and-style-a-mustache.mp3
+audio_voice: Ryan
+audio_duration: "17:02"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 68, title: "Key takeaways"}
+  - {t: 139, title: "How to Grow a Mustache Week by Week"}
+  - {t: 253, title: "Mustache Styles 2026"}
+  - {t: 380, title: "How to Trim a Mustache Like a Barber"}
+  - {t: 492, title: "How to Use Mustache Wax Without the…"}
+  - {t: 604, title: "Skin Care Under the Mustache"}
+  - {t: 689, title: "Beyond the Mustache"}
+  - {t: 796, title: "The Gentleman's Mustache Routine"}
+  - {t: 910, title: "FAQ: Movember Mustache Questions"}
 ---
 
 It is the middle of November, which means two things in men's grooming: thousands of upper lips across America are halfway through their Movember mustache, and many of them have reached the stage where the hair is long enough to notice but not yet long enough to look deliberate. This Movember mustache guide is for that exact moment. GQ calls 2026 a "facial hair renaissance", and barbers say the mustache has become the thinking man's choice again. But a great mustache never happens on autopilot. It needs patience in the first weeks, a style that suits your face and haircut, a confident trim, and the right finishing products.
