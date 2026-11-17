@@ -9,7 +9,17 @@ image: /assets/img/2026-10-15-stop-spraying-perfume-on-your-beard-the-autumn-bea
 image_credit: "Illustration: AI-generated"
 audio: /assets/audio/stop-spraying-perfume-on-your-beard-the-autumn-beard-care-reset.mp3
 audio_voice: Andrew
-audio_duration: "16:51"
+audio_duration: "16:50"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 66, title: "The Viral \"Perfume on Your Beard\" Tip…"}
+  - {t: 228, title: "The Dermatologist's Three-Step Beard…"}
+  - {t: 372, title: "\"Beardruff\""}
+  - {t: 509, title: "Beard Oil vs"}
+  - {t: 594, title: "What Reddit's Bearded Men Are Saying"}
+  - {t: 697, title: "The Autumn Beard Routine, Step by Step"}
+  - {t: 774, title: "Movember Is Two Weeks Away"}
+  - {t: 838, title: "Product Picks"}
 ---
 
 Every October the same thing happens. The heating goes on, the wind picks up, scarves come out of storage, and somewhere in the middle of all that your beard turns from soft and tidy into a dry, itchy, flaky mess. At the same time, social media is busy handing out "beard hacks" that sound clever and then make the problem worse.

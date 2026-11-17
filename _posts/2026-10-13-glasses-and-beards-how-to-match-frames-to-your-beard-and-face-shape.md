@@ -11,6 +11,14 @@ image_credit: "Illustration: AI-generated"
 audio: /assets/audio/glasses-and-beards-how-to-match-frames-to-your-beard-and-face-shape.mp3
 audio_voice: Andrew
 audio_duration: "14:50"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 130, title: "Step 1: Find Your Face Shape (Beard…"}
+  - {t: 191, title: "Step 2: Match Frames to Face Shape and…"}
+  - {t: 336, title: "Step 3: Match Frame Weight to Beard…"}
+  - {t: 433, title: "How Glasses Should Fit on a Bearded Face"}
+  - {t: 594, title: "Glasses for Men with Beards"}
+  - {t: 770, title: "FAQ: Glasses and Beards"}
 ---
 
 Glasses and beards have a lot in common. Both sit right in the middle of your face, both change how wide or long your face looks, and both are hard to ignore. Get the combination right and they work together like a well-cut jacket and good shoes. Get it wrong and one fights the other: a heavy beard can swallow tiny frames, and loud frames can make a neat beard look like an afterthought.
