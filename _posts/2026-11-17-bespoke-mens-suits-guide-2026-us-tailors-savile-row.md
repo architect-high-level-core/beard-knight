@@ -12,6 +12,20 @@ image_credit: "Tima Miroshnichenko on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/outline-on-a-suit-jacket-6765065/"
+audio: /assets/audio/bespoke-mens-suits-guide-2026-us-tailors-savile-row.mp3
+audio_voice: Andrew
+audio_duration: "26:49"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 149, title: "Bespoke, Made-to-Measure and…"}
+  - {t: 376, title: "Full Canvas and Why a Bespoke Jacket…"}
+  - {t: 468, title: "New York's High-End Houses"}
+  - {t: 737, title: "Savile Row in America"}
+  - {t: 926, title: "How the Houses Compare"}
+  - {t: 1086, title: "How to Commission a First Bespoke Suit"}
+  - {t: 1204, title: "Timeless Style"}
+  - {t: 1313, title: "How to Care for a Suit That Was Built…"}
+  - {t: 1453, title: "FAQ: Bespoke Men's Suits"}
 ---
 
 A well-cut suit is still the most complete garment a man can own. It sets the line of the shoulder and the way he occupies a room, and it does so quietly. In 2026 the American gentleman who wants that effect for decades, not for a season, is looking for a tailor. New York now has a serious high-end tailoring culture of its own, from midtown rooms where a cutter still drafts a paper pattern by hand to Savile Row houses that keep a showroom on West 57th Street or arrive several times a year with their cloth books.

@@ -12,6 +12,19 @@ image_credit: "Kaboompics.com on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-applying-cosmetic-product-on-face-7320113/"
+audio: /assets/audio/retinol-for-men-guide.mp3
+audio_voice: Andrew
+audio_duration: "18:44"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 134, title: "Why Retinol Is the Anti-Aging…"}
+  - {t: 239, title: "Retinol vs Retinal vs Tretinoin vs…"}
+  - {t: 388, title: "How to Start Retinol in Winter Without…"}
+  - {t: 522, title: "Your Retinol Routine"}
+  - {t: 637, title: "Retinol and Shaving"}
+  - {t: 764, title: "Side Effects, the \"Retinol Uglies\" and…"}
+  - {t: 891, title: "Product Picks"}
+  - {t: 1011, title: "FAQ: Retinol for Men"}
 ---
 
 Retinol for men is no longer a niche bathroom secret. Dermatologists now describe vitamin A derivatives as the one active ingredient worth adding once cleanser, moisturizer and sunscreen are in place, and men's grooming editors have followed suit. Yet most guys who "tried retinol" quit after two weeks of flaking, stinging and a tight, shiny face. The problem is rarely the ingredient. It is the strength, the frequency and the timing, especially in winter, when heated rooms and cold wind already push the skin barrier to its limit.

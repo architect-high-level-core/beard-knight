@@ -12,6 +12,20 @@ image_credit: "Terje Sollie on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/pair-of-brown-leather-wingtip-shoes-beside-gray-apparel-on-wooden-surface-298864/"
+audio: /assets/audio/italian-bespoke-leather-shoes-guide-2026-florence-rome-naples.mp3
+audio_voice: Ryan
+audio_duration: "25:09"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 66, title: "Key takeaways"}
+  - {t: 210, title: "Bespoke, Made-to-Order and Ready-to-Wear"}
+  - {t: 343, title: "Goodyear, Blake, Hand-Welted and…"}
+  - {t: 459, title: "Where to Travel in Italy"}
+  - {t: 589, title: "The Italian Houses Worth Knowing"}
+  - {t: 981, title: "How Americans Order"}
+  - {t: 1073, title: "What to Commission, and How to Care for…"}
+  - {t: 1167, title: "A Quick Comparison"}
+  - {t: 1315, title: "FAQ: Italian Bespoke Leather Shoes"}
 ---
 
 A great suit can still be let down by the wrong pair of shoes. For the elegant man, Italian bespoke leather shoes remain one of the last true workshops of luxury: a wooden last carved for his feet, a hide chosen by hand, and months of fittings before the first proper walk down the street. This guide sets out the Italian houses still doing that work, the cities worth traveling to, how a bespoke pair differs from ready-to-wear, and how an American can order without guessing from a lookbook.
