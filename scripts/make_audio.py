@@ -195,6 +195,8 @@ def extract_text(raw, sections=False):
             continue
         if not st:
             flush(); continue
+        if re.match(r"^[*_].*[*_]$", st) and re.search(r"\b(Photo|Image|Illustration)\s*:", st):   # italic inline-image caption with credit
+            flush(); continue
         if re.match(r"^\[\^[^\]]+\]:", st) or re.match(r"^\[[^\]]+\]:\s*\S+", st):   # footnote / link defs
             flush(); continue
         if re.match(r"^([-*_]\s*){3,}$", st):                                     # hr
