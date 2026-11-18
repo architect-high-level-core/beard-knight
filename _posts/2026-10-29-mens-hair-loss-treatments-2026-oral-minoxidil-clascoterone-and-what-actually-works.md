@@ -13,7 +13,10 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/tools-at-barbershop-7697711/"
 audio: /assets/audio/mens-hair-loss-treatments-2026-oral-minoxidil-clascoterone-and-what-actually-works.mp3
 audio_voice: Guy
-audio_duration: "6:49"
+audio_duration: "6:50"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 339, title: "FAQ: Men's Hair Loss Treatments in 2026"}
 ---
 
 A great beard frames the face, but for most men the hairline is where the real worry starts. October 2026 brought the biggest wave of men's hair loss treatment news in years: a new oral minoxidil pill with strong Phase 3 data, a hormone-blocking scalp solution heading toward the FDA, and a regenerative topical entering late-stage trials. Here is what is new, what already works, and how men with standards are building a smarter scalp routine.

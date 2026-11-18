@@ -14,6 +14,16 @@ image: /assets/img/2026-11-01-movember-2026-mustache-styles.jpg
 audio: /assets/audio/movember-2026-mustache-styles-grooming-tips-and-the-mens-health-checks-that-matter.mp3
 audio_voice: Ryan
 audio_duration: "11:22"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 40, title: "What Movember 2026 Is About"}
+  - {t: 118, title: "The Best Mustache Styles for 2026"}
+  - {t: 203, title: "How to Grow a Mustache Without Ruining…"}
+  - {t: 317, title: "Mustache Wax and Oil"}
+  - {t: 377, title: "The Prostate Check"}
+  - {t: 470, title: "Testicular Cancer"}
+  - {t: 533, title: "Product Picks"}
+  - {t: 603, title: "FAQ: Movember and Mustache Grooming"}
 ---
 
 Today is November 1, and that means one thing on the upper lip of men around the world: Movember 2026 has begun. Since 2003 the mustache has been the symbol of a serious idea, getting men to talk about their health, from prostate and testicular cancer to mental health. This guide covers both sides of the month: the mustache styles worth growing in 2026, how to grow and groom a mustache with real polish, and the men's health checks that matter far more than any whisker.

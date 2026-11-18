@@ -14,7 +14,13 @@ image_source_url: "https://www.pexels.com/photo/stylish-bedroom-with-unmade-bed-
 image: /assets/img/2026-10-28-sleep-and-muscle-growth.jpg
 audio: /assets/audio/sleep-and-muscle-growth-testosterone-protein-before-bed-and-how-much-sleep-you-need.mp3
 audio_voice: Guy
-audio_duration: "13:03"
+audio_duration: "13:04"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 355, title: "Protein Before Bed"}
+  - {t: 450, title: "How Much Sleep Do You Need to Build…"}
+  - {t: 534, title: "Better Sleep for Better Gains"}
+  - {t: 653, title: "Frequently Asked Questions"}
 ---
 
 You can follow the perfect training plan, hit your protein target every day and still stall, if you are not sleeping. Muscle is stimulated in the gym, but much of the repair happens while you are in bed. This guide summarizes what peer-reviewed studies and health authorities say about sleep and muscle growth: how sleep loss affects testosterone, growth hormone and cortisol, what happens to muscle protein synthesis after a bad night, whether protein before bed really helps, and how much sleep men who train actually need.

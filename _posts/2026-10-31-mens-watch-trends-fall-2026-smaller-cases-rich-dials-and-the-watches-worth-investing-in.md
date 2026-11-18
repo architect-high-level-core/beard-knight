@@ -13,7 +13,11 @@ image_source_url: "https://www.pexels.com/photo/close-up-machine-pocket-watch-ti
 image: /assets/img/2026-10-31-mens-watch-trends-fall-2026.jpg
 audio: /assets/audio/mens-watch-trends-fall-2026-smaller-cases-rich-dials-and-the-watches-worth-investing-in.mp3
 audio_voice: Guy
-audio_duration: "7:10"
+audio_duration: "7:11"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 302, title: "Product Picks"}
+  - {t: 363, title: "FAQ: Men's Watches in Fall 2026"}
 ---
 
 When the coats come out, the watch becomes the one piece of jewelry most men actually wear every day. The men's watch trends for fall 2026 are clear: smaller and slimmer cases, warmer dial colors, a quiet return of the classic dress watch, and a few new releases that show where luxury watchmaking is heading. Here is what is worth knowing this season, and how to wear a fine watch well with fall tailoring.
