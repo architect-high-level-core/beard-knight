@@ -15,6 +15,16 @@ image_source_url: "https://www.pexels.com/photo/stylish-men-s-perfume-bottle-on-
 audio: /assets/audio/fall-fragrance-for-men-2026-the-cologne-trends-worth-wearing-this-season.mp3
 audio_voice: Guy
 audio_duration: "19:28"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 26, title: "Why Your Summer Cologne Stops Working…"}
+  - {t: 109, title: "Trend 1: Boozy Colognes That Smell Like…"}
+  - {t: 254, title: "Trend 2: Smoky Vanilla Grows Up"}
+  - {t: 399, title: "Trend 3: Oud Without the Intimidation"}
+  - {t: 496, title: "Trend 4: The Extrait Era: Concentration…"}
+  - {t: 662, title: "Trend 5: Wearing Fragrance Smarter in…"}
+  - {t: 905, title: "Product Picks"}
+  - {t: 1038, title: "FAQ: Fall Fragrance for Men"}
 ---
 
 The best fall fragrance for men in 2026 smells like a good evening: a neat pour of whiskey, a leather armchair, woodsmoke on a cold walk home. The bright citrus and aquatic colognes of summer have had their run. This is the season for depth, and the new launches are richer, smoother and better made than ever.

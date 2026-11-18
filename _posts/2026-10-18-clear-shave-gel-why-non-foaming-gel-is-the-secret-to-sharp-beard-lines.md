@@ -14,7 +14,16 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/close-up-shot-of-a-shaving-beard-10775081/"
 audio: /assets/audio/clear-shave-gel-why-non-foaming-gel-is-the-secret-to-sharp-beard-lines.mp3
 audio_voice: Guy
-audio_duration: "16:33"
+audio_duration: "16:34"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 123, title: "The Hook"}
+  - {t: 229, title: "What Is a Clear, Non-Foaming Shave Gel?"}
+  - {t: 330, title: "The Benefits"}
+  - {t: 400, title: "Who Should Use a Clear Shave Gel?"}
+  - {t: 487, title: "How to Use a Clear Shave Gel, Step by…"}
+  - {t: 654, title: "The Best Premium Clear Shave Gels and…"}
+  - {t: 861, title: "Frequently Asked Questions"}
 ---
 
 Every bearded man knows the moment. Your cheeks are covered in white foam, you lift the razor to tidy the cheek line, and you can't see the line at all. You guess, you swipe, and the beard is now slightly lopsided.

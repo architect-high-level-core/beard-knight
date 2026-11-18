@@ -10,6 +10,14 @@ image_credit: "Illustration: AI-generated"
 audio: /assets/audio/boot-season-is-here-the-mens-shoe-trends-worth-buying-this-fall.mp3
 audio_voice: Guy
 audio_duration: "14:27"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 64, title: "The Big Picture"}
+  - {t: 138, title: "Trend 1: The Low-Profile Hiker"}
+  - {t: 209, title: "Trend 2: The Chelsea Boot, Sharpened"}
+  - {t: 323, title: "Trend 3: Suede Loafers, the \"Soft…"}
+  - {t: 581, title: "Keeping Suede Alive Through a Wet Autumn"}
+  - {t: 678, title: "Product Picks"}
 ---
 
 Flip-flop season is officially over, and for anyone who cares about shoes, that's good news. Autumn is the one time of year when almost every kind of footwear makes sense: boots, loafers, derbies, chunky sneakers, even something a little unexpected.
