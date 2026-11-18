@@ -14,7 +14,15 @@ image_source_url: "https://www.pexels.com/photo/bowl-being-poured-with-yellow-li
 image: /assets/img/2026-10-28-olive-oil-and-mens-health.jpg
 audio: /assets/audio/olive-oil-and-mens-health-evoo-predimed-polyphenols-and-how-to-choose-the-best.mp3
 audio_voice: Andrew
-audio_duration: "12:52"
+audio_duration: "13:39"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 127, title: "Why Olive Oil Is Different From Other…"}
+  - {t: 211, title: "PREDIMED"}
+  - {t: 301, title: "Olive Oil and Longevity"}
+  - {t: 441, title: "Polyphenols"}
+  - {t: 614, title: "Premium Olive Oils Worth Buying"}
+  - {t: 682, title: "Frequently Asked Questions"}
 ---
 
 Few foods have as much serious research behind them as extra virgin olive oil. It is the backbone of the Mediterranean diet, the subject of one of the largest nutrition trials ever run, and increasingly a luxury product in its own right, with single-estate bottles that are judged like fine wine. This guide summarizes what the major studies say about olive oil and men's health (heart health, longevity, cholesterol, polyphenols and the much-asked question of testosterone) and explains how to choose a genuinely excellent extra virgin olive oil.
