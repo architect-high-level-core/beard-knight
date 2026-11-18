@@ -9,7 +9,18 @@ image: /assets/img/2026-10-16-three-steps-not-fifteen-the-no-nonsense-mens-skin-
 image_credit: "Illustration: AI-generated"
 audio: /assets/audio/three-steps-not-fifteen-the-no-nonsense-mens-skin-care-routine-for-autumn.mp3
 audio_voice: Ryan
-audio_duration: "16:49"
+audio_duration: "16:50"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 71, title: "The Big Shift"}
+  - {t: 166, title: "Step 1: Cleanse (Gently)"}
+  - {t: 242, title: "Step 2: Moisturize (While the Skin Is…"}
+  - {t: 304, title: "Step 3: Sunscreen, Every Morning, Even…"}
+  - {t: 381, title: "The Optional Fourth Step"}
+  - {t: 510, title: "Shaving: Where Good Routines Go to Die"}
+  - {t: 666, title: "What Men on Reddit Wish They'd Known…"}
+  - {t: 761, title: "Your Autumn Routine on One Card"}
+  - {t: 827, title: "Product Picks"}
 ---
 
 Scroll through any social feed this month and you'll find two very different conversations about men and skin care.
