@@ -206,6 +206,16 @@ body.hb-on{padding-bottom:6rem}
 .page-body p,.page-body ul{margin:1.25rem 0 0}.page-body ul{padding-left:1.5rem}
 .page-body h2{font-family:var(--sans);font-weight:700;color:var(--ink);border-top:1px solid var(--line);margin:3rem 0 0;padding-top:1.25rem;font-size:clamp(1.4rem,3vw,1.75rem);line-height:1.15}
 .page-body a{color:var(--link);text-underline-offset:.18em}
+
+/* sort bar (EN homepage) */
+.sortbar{display:flex;flex-wrap:wrap;align-items:center;gap:.3rem;margin:0 0 1.5rem;font-family:var(--mono);font-size:.62rem;text-transform:uppercase;letter-spacing:.12em;color:var(--muted)}
+.sb-l{margin-right:.3rem}
+.sortbar button{all:unset;box-sizing:border-box;display:inline-flex;align-items:center;min-height:2rem;padding:0 .7rem;border:1px solid var(--line);border-radius:999px;color:var(--muted);cursor:pointer;-webkit-tap-highlight-color:transparent;transition:border-color .2s,color .2s}
+.sortbar button:hover{border-color:#cfc9c2;color:var(--ink)}
+.sortbar button[aria-pressed="true"]{border-color:var(--accent);color:var(--ink)}
+.sortbar button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+@media(max-width:600px){.sortbar{flex-wrap:wrap;margin-bottom:1.25rem;gap:.25rem}.sortbar button{min-height:2.15rem;padding:0 .6rem}}
+.tile .wc{text-transform:none;letter-spacing:.04em;opacity:.75}
 </style></head><body{% if page.wide %} class="wide"{% endif %}>
 <header class="site-header"><div class="inner">{% include search.html %}<div class="brandwrap"><a class="brand" href="{{ site.data.i18n[l].home | relative_url }}"><img class="logo" src="{{ '/assets/img/logo.png' | relative_url }}" alt="Beard Knight" width="163" height="90"></a><p class="tagline">{{ tagline }}</p></div>{% include langswitch.html %}</div></header>
 <main>{{ content }}</main>
