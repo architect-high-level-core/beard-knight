@@ -14,7 +14,15 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-in-brown-turtleneck-shirt-6338324/"
 audio: /assets/audio/mens-sweater-trends-fall-2026-the-cashmere-and-knitwear-worth-investing-in.mp3
 audio_voice: Guy
-audio_duration: "12:59"
+audio_duration: "13:00"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 88, title: "The V-Neck Sweater Makes Its Comeback"}
+  - {t: 160, title: "Knit Polos and Collared Cardigans"}
+  - {t: 227, title: "Statement Knits"}
+  - {t: 312, title: "Chocolate Brown and Jewel Tones Replace…"}
+  - {t: 429, title: "Cashmere as a Strategy, Not a Status…"}
+  - {t: 701, title: "FAQ: Men's Sweater Trends Fall 2026"}
 ---
 
 There is a reason autumn is called sweater weather and not sweatshirt weather. A fine knit does more for a man's wardrobe in October than almost any other single piece: it warms, it layers, it softens tailoring and it sharpens denim. This fall, the **men's sweater trends of 2026** are moving beyond the anonymous navy crewneck toward V-necks, collared knits, pattern-rich statement pieces and richer colors.

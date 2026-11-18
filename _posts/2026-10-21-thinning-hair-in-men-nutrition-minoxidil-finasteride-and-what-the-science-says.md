@@ -15,6 +15,15 @@ image_source_url: "https://www.pexels.com/photo/photo-of-a-man-fixing-his-hair-w
 audio: /assets/audio/thinning-hair-in-men-nutrition-minoxidil-finasteride-and-what-the-science-says.mp3
 audio_voice: Guy
 audio_duration: "17:33"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 191, title: "Nutrition and Hair"}
+  - {t: 329, title: "Proven Medical Treatments"}
+  - {t: 466, title: "Add-On and Emerging Options"}
+  - {t: 651, title: "Lifestyle Factors That Matter"}
+  - {t: 742, title: "Premium Scalp Care to Pair With…"}
+  - {t: 832, title: "Building a Smart Routine With Your…"}
+  - {t: 901, title: "FAQ"}
 ---
 
 A thick beard and a thinning crown often go together. The same hormones that build a strong beard can shrink hair follicles on the scalp. If you've noticed more scalp in the bathroom mirror, you are in large company. Cleveland Clinic notes that about a quarter of men see the first signs of male pattern baldness before age 21, and around half have some by age 50.

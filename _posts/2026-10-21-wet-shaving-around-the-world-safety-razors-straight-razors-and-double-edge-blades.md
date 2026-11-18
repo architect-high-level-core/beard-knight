@@ -14,7 +14,17 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/reflection-in-mirror-of-man-shaving-19535224/"
 audio: /assets/audio/wet-shaving-around-the-world-safety-razors-straight-razors-and-double-edge-blades.mp3
 audio_voice: Ryan
-audio_duration: "19:29"
+audio_duration: "19:30"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 139, title: "Four Ways to Shave Manually"}
+  - {t: 221, title: "Turkey: The Barber's Straight Razor and…"}
+  - {t: 327, title: "Japan: Kamisori and Precision Blades"}
+  - {t: 423, title: "Italy and the UK"}
+  - {t: 498, title: "United States"}
+  - {t: 732, title: "How to Shave With a Safety Razor"}
+  - {t: 805, title: "Premium Razor Price Comparison (US)"}
+  - {t: 1029, title: "FAQ"}
 ---
 
 Every culture that shaves has developed its own version of the ritual. In Istanbul, a barber flames his razor before he touches your cheek. In Tokyo, a craftsman's single-bevel kamisori is ground on one side only. In Florence and Mayfair, a hot towel and a bowl of lather are part of a century-old service. In America, the twentieth century belonged to the disposable blade, until a new generation went back to the heavy, chrome-plated safety razor its grandfathers used.

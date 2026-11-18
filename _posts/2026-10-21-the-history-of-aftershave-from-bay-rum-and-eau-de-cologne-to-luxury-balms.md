@@ -14,7 +14,18 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-using-an-after-shave-7320128/"
 audio: /assets/audio/the-history-of-aftershave-from-bay-rum-and-eau-de-cologne-to-luxury-balms.mp3
 audio_voice: Guy
-audio_duration: "18:52"
+audio_duration: "18:53"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 122, title: "A Timeline of Aftershave"}
+  - {t: 199, title: "The Barber's First Aid"}
+  - {t: 317, title: "1709: The Birth of Eau de Cologne"}
+  - {t: 393, title: "London and Paris"}
+  - {t: 487, title: "America: Aqua Velva and Old Spice"}
+  - {t: 585, title: "Turkey: Kolonya, Lavender and the…"}
+  - {t: 677, title: "From Splash to Balm"}
+  - {t: 798, title: "Luxury and Classic Aftershaves Today…"}
+  - {t: 976, title: "FAQ"}
 ---
 
 Few grooming rituals are as recognisable as the finishing touch after a shave. There is the slap of a cool splash, the sting on fresh skin, then a scent that lingers on the collar. Aftershave seems timeless, yet it has a surprisingly rich history. It runs from barbers' alum stones and sailors' bay rum to a fragrance created in Cologne in the early 1700s. It includes American drugstore icons, Italian barbershop classics and Turkey's beloved kolonya.
