@@ -12,6 +12,20 @@ image_credit: "cottonbro studio on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-in-black-suit-sitting-at-the-bar-counter-9198311/"
+audio: /assets/audio/how-to-drink-whisky-like-a-gentleman.mp3
+audio_voice: Andrew
+audio_duration: "20:28"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 188, title: "Single Malt, Blended Scotch, Bourbon…"}
+  - {t: 363, title: "The Five Scotch Regions"}
+  - {t: 469, title: "Glassware"}
+  - {t: 544, title: "Neat, a Few Drops of Water, or Ice"}
+  - {t: 658, title: "How to Nose and Taste a Dram"}
+  - {t: 757, title: "Food and, If You Smoke, Cigar Pairings"}
+  - {t: 849, title: "Building a Premium Home Bar"}
+  - {t: 929, title: "Five Bottles Worth Knowing"}
+  - {t: 1141, title: "Drinking in Moderation"}
 ---
 
 A gentleman does not drink whisky to impress the room. He drinks it to understand the glass in front of him: the grain, the cask, the region and the quiet ceremony of a well-made pour. In the United States that ceremony is now broader than ever. Scotch still sets the vocabulary, Kentucky bourbon remains the American classic, Japanese blended whisky has a firm place on serious back bars, and as of 2025 American single malt has a legal definition of its own.
