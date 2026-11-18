@@ -14,6 +14,10 @@ image_source_url: "https://www.pexels.com/photo/young-man-in-winter-jacket-in-a-
 audio: /assets/audio/mens-puffer-jacket-trends-winter-2026-the-down-jackets-worth-investing-in.mp3
 audio_voice: Andrew
 audio_duration: "9:43"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 389, title: "Product Picks"}
+  - {t: 496, title: "FAQ: Men's Puffer Jackets 2026"}
 ---
 
 The puffer jacket has grown up. Men's puffer jacket trends for winter 2026 move away from the shiny, oversized "sleeping bag" look toward matte finishes, cleaner volumes, richer colors and smarter insulation. Here is what is new in down jackets this season, how to read a fill-power number, and which luxury puffers are actually worth the investment.

@@ -14,6 +14,15 @@ image_source_url: "https://www.pexels.com/photo/portrait-of-a-handsome-man-with-
 audio: /assets/audio/no-shave-november-2026-growing-out-a-beard-itch-ingrowns-and-under-beard-skin-care.mp3
 audio_voice: Ryan
 audio_duration: "18:53"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 34, title: "Cleveland Clinic on No Shave November"}
+  - {t: 151, title: "Why Beard Itch Peaks in Week Two (and…"}
+  - {t: 311, title: "Under-Beard Skin Care"}
+  - {t: 489, title: "Softer Natural Beard Shaping 2026"}
+  - {t: 636, title: "Beard Oil, Balm or Conditioner"}
+  - {t: 815, title: "Product Picks"}
+  - {t: 950, title: "FAQ"}
 ---
 
 No Shave November 2026 is less about abandoning the razor and more about surviving the grow-out with dignity. The first two weeks bring itch, the stubble phase invites ingrowns, flakes show up under heating-season air, and the 2026 look rewards softer, natural beard shaping rather than a carved outline. Here is how to grow out a beard this November with under-beard skin care that actually holds up.

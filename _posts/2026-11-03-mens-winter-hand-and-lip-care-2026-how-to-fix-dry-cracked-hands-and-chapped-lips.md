@@ -13,7 +13,15 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-in-black-knitted-cap-and-black-coat-11035346/"
 audio: /assets/audio/mens-winter-hand-and-lip-care-2026-how-to-fix-dry-cracked-hands-and-chapped-lips.mp3
 audio_voice: Ryan
-audio_duration: "10:51"
+audio_duration: "10:52"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 96, title: "The Ingredient Formula"}
+  - {t: 278, title: "Why Your Lips Are Always Chapped (and…"}
+  - {t: 346, title: "Winter Sun Still Counts"}
+  - {t: 412, title: "Cuticles and Nails"}
+  - {t: 475, title: "Product Picks"}
+  - {t: 553, title: "FAQ: Men's Winter Hand and Lip Care"}
 ---
 
 A man can wear a perfect overcoat and still give himself away with rough knuckles and cracked lips. Your hands are on display every time you shake hands, sign a check or lift a glass, and your lips are the first thing people see when you speak. This guide to men's winter hand and lip care for 2026 explains why both suffer as soon as the heating goes on, which formulas dermatologists actually recommend, and the premium hand balms and lip treatments worth keeping on your desk.
