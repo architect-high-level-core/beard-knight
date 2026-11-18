@@ -22,6 +22,7 @@
     list.forEach(function (c) { f.appendChild(c); });
     grid.appendChild(f);
     Array.prototype.forEach.call(bar.querySelectorAll('[data-sort]'), function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-sort') === mode ? 'true' : 'false'); });
+    if (typeof window.BKMasonry === 'function') window.BKMasonry();
   }
   var mode = get(KEY_SORT, 'newest'); if (mode !== 'random' && !cmp[mode]) mode = 'newest';
   if (mode !== 'newest') apply(mode);
