@@ -13,7 +13,16 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-in-gray-corduroy-jacket-14811227/"
 audio: /assets/audio/mens-overshirt-trends-winter-2026-shirt-jackets-worth-investing-in.mp3
 audio_voice: Andrew
-audio_duration: "13:31"
+audio_duration: "13:32"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 94, title: "The Shirt-Jacket Suits Up"}
+  - {t: 200, title: "Fit and the Three Golden Rules of…"}
+  - {t: 310, title: "Double Outerwear"}
+  - {t: 395, title: "Corduroy, Herringbone and Cashmere"}
+  - {t: 506, title: "Dark Denim, Turtlenecks and the…"}
+  - {t: 604, title: "Product picks"}
+  - {t: 723, title: "FAQ"}
 ---
 
 The overshirt—also called a shirt jacket or shacket—has quietly become the most useful winter layer a gentleman can own. Heavier than a dress shirt, lighter than a structured blazer, and cut to sit cleanly under an overcoat, it fills the gap that casual dressing left when sport coats stopped being daily armor. Winter 2026 is the season to buy one properly: cashmere, brushed wool, herringbone and corduroy, worn as a mid-layer, a soft third piece, or the finishing stroke over a turtleneck and dark denim.

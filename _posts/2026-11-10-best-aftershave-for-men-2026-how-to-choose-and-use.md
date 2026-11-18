@@ -15,6 +15,16 @@ pair: aftershave-2026
 audio: /assets/audio/best-aftershave-for-men-2026-how-to-choose-and-use.mp3
 audio_voice: Ryan
 audio_duration: "20:43"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 101, title: "Aftershave vs Eau de Toilette"}
+  - {t: 202, title: "Splash, Lotion, Balm, Gel and Fluid"}
+  - {t: 348, title: "How to Use Aftershave, Step by Step"}
+  - {t: 465, title: "Layering Aftershave, Moisturizer, SPF…"}
+  - {t: 624, title: "The Best Aftershave for Men 2026"}
+  - {t: 862, title: "Common Mistakes, Razor Burn and When to…"}
+  - {t: 1008, title: "Product picks"}
+  - {t: 1135, title: "FAQ"}
 ---
 
 The best aftershave for men in 2026 is no longer a bottle that stings on purpose. A luxury aftershave is a post-shave treatment first and a fragrance second: it calms just-shaved skin, puts moisture back, and, if you want it to, leaves a light trail of the same scent you already wear. This guide explains how to choose among splashes, lotions, balms, gels and fluids, how to apply them, how to layer aftershave with moisturizer, sunscreen and cologne, and which premium bottles are worth buying in the United States right now.
