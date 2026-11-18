@@ -14,7 +14,18 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-with-grey-hair-and-beard-sitting-on-a-chair-27789019/"
 audio: /assets/audio/grey-beard-why-beards-go-grey-and-how-to-wear-salt-and-pepper-with-style.mp3
 audio_voice: Ryan
-audio_duration: "20:18"
+audio_duration: "20:19"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 149, title: "The Science of Grey"}
+  - {t: 312, title: "Why the Beard Often Goes Grey First"}
+  - {t: 398, title: "Stress and Grey Hair"}
+  - {t: 481, title: "Smoking, Vitamin B12, Thyroid and Other…"}
+  - {t: 599, title: "Can Grey Hair Be Reversed?"}
+  - {t: 673, title: "Salt and Pepper as a Premium Look"}
+  - {t: 795, title: "Wear It, Blend It or Colour It?"}
+  - {t: 887, title: "Premium Picks for a Bright, Soft Grey…"}
+  - {t: 1058, title: "FAQ"}
 ---
 
 For many men, the first grey hair does not appear at the temples. It appears in the beard: a single silver strand at the chin, a pale streak under the lower lip, or a sprinkle of white along the jaw. A few years later, the beard can look distinctly salt and pepper while the hair on top is still almost entirely dark.

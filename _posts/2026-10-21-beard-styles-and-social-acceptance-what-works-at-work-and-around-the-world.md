@@ -15,6 +15,13 @@ image_source_url: "https://www.pexels.com/photo/bearded-man-wearing-suit-jacket-
 audio: /assets/audio/beard-styles-and-social-acceptance-what-works-at-work-and-around-the-world.mp3
 audio_voice: Ryan
 audio_duration: "16:20"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 123, title: "The Acceptance Spectrum"}
+  - {t: 326, title: "What Research Says"}
+  - {t: 442, title: "Cultural Differences"}
+  - {t: 749, title: "Premium Picks for a Polished Beard (US)"}
+  - {t: 841, title: "FAQ"}
 ---
 
 A beard has never been just hair. Over the centuries it has signalled wisdom, piety, rebellion, rank, political loyalty and, more recently, style. A Russian tsar taxed beards. Turkish civil servants were long required to shave every day. America's most famous theme-park company banned beards for decades. Today, a well-groomed beard is common in boardrooms from New York to Istanbul.

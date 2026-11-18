@@ -15,6 +15,16 @@ pair: movember-2026
 audio: /assets/audio/movember-2026-mustache-guide-grow-a-stylish-mustache-and-back-mens-health.mp3
 audio_voice: Ryan
 audio_duration: "13:19"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 68, title: "Movember 2026"}
+  - {t: 183, title: "The Mustache Styles Leading in 2026"}
+  - {t: 303, title: "How to Grow a Mustache"}
+  - {t: 389, title: "The Tools a Well-Groomed Mustache Needs"}
+  - {t: 468, title: "Why the Mustache Matters"}
+  - {t: 561, title: "Testicular Cancer"}
+  - {t: 644, title: "Product Picks"}
+  - {t: 725, title: "FAQ: Movember and Growing a Mustache"}
 ---
 
 In ten days, a lot of men will shave their upper lip clean on purpose and then spend thirty days letting it grow back. **Movember 2026** starts on November 1, and the mustache is once again the most visible way to take part. Done well, a Movember mustache is more than a charity gesture: it can be a sharp, deliberate style that says you take your grooming, and your health, seriously.

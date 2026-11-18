@@ -14,7 +14,17 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-in-white-bathrobe-washing-his-face-7608046/"
 audio: /assets/audio/should-men-wash-beard-and-hair-with-bar-soap-pros-cons-and-better-alternatives.mp3
 audio_voice: Andrew
-audio_duration: "18:56"
+audio_duration: "18:13"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 131, title: "Soap vs. Shampoo vs. Beard Wash"}
+  - {t: 256, title: "Why Soap's pH Matters for Skin, Beard…"}
+  - {t: 399, title: "Hard Water and Soap Scum"}
+  - {t: 471, title: "What Dermatologists Recommend for Beards"}
+  - {t: 568, title: "When Washing With Soap Is Perfectly Fine"}
+  - {t: 644, title: "The Pros and Cons at a Glance"}
+  - {t: 761, title: "Premium Picks"}
+  - {t: 915, title: "Frequently Asked Questions"}
 ---
 
 Plenty of men run their whole shower on a single bar of soap. It's simple and it works. A good soap feels honest, too: a few oils, some lye, maybe a little fragrance, and nothing else. So why do barbers, beard brands and dermatologists keep telling you to put the bar down when it comes to your beard and hair?
