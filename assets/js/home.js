@@ -1,5 +1,5 @@
 (function () {
-  var KEY_SORT = 'homeSort';
+  var KEY_SORT = (document.documentElement.getAttribute('lang') || '').indexOf('tr') === 0 ? 'homeSort-tr' : 'homeSort';
   function get(k, d) { try { var v = localStorage.getItem(k); return v == null ? d : v; } catch (e) { return d; } }
   function set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 
