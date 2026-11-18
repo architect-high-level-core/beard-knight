@@ -15,6 +15,16 @@ pair: classic-barbershop-2026
 audio: /assets/audio/the-classic-barbershop-experience-2026.mp3
 audio_voice: Guy
 audio_duration: "14:20"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 105, title: "What the Ritual Actually Includes"}
+  - {t: 202, title: "The Hot Towel"}
+  - {t: 294, title: "The Straight-Razor Wet Shave, in the…"}
+  - {t: 391, title: "London's Gentlemen's Barbers"}
+  - {t: 526, title: "What Makes a Good Barber"}
+  - {t: 618, title: "How to Book, Sit and Leave the Chair…"}
+  - {t: 697, title: "Product picks"}
+  - {t: 767, title: "FAQ"}
 ---
 
 A classic barbershop experience is not a haircut that happens to include a shave. It is a short, formal ritual: a conversation about your face, a hot towel, a dense lather worked in with a brush, a close shave with a straight razor or a professional shavette, and a calm finish with balm and cologne. In 2026, that ritual is again something men book on purpose, not only when they have nowhere else to go. This guide explains what happens in a traditional wet shave, why the hot towel matters, how London houses such as Truefitt & Hill and Geo. F. Trumper still set the standard, and how to tell a great barber from a merely busy one.

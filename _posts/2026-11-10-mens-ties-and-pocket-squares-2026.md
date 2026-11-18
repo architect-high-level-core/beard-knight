@@ -15,6 +15,16 @@ pair: ties-pocket-squares-2026
 audio: /assets/audio/mens-ties-and-pocket-squares-2026.mp3
 audio_voice: Guy
 audio_duration: "15:19"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 110, title: "Why These Two Pieces of Cloth Still…"}
+  - {t: 179, title: "The Knots"}
+  - {t: 282, title: "Silk, Wool-Silk and Grenadine"}
+  - {t: 435, title: "Pocket Squares and the Folds Worth…"}
+  - {t: 538, title: "Matching Without Copying"}
+  - {t: 632, title: "The Houses, and What a Holiday Wardrobe…"}
+  - {t: 739, title: "Product picks"}
+  - {t: 843, title: "FAQ"}
 ---
 
 A tie and a pocket square are two of the smallest decisions a man makes before a winter dinner, and two of the ones people actually notice. In the holiday weeks of 2026, when invitations run from a client's lunch to a family evening in a dark jacket, the question is not whether you own a black tie. It is whether the knot sits properly, whether the silk or the grenadine has the right weight, and whether the square in the breast pocket talks to the tie without copying it. This guide is about those details: the knots, the cloths, the folds, and the houses that still make them by hand.

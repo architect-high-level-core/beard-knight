@@ -14,7 +14,18 @@ image_source_url: "https://www.pexels.com/photo/wine-glasses-on-table-8856580/"
 pair: table-manners-2026
 audio: /assets/audio/table-manners-for-gentlemen-2026-cutlery-wine-and-who-pays.mp3
 audio_voice: Andrew
-audio_duration: "13:59"
+audio_duration: "15:43"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 105, title: "The Place Setting"}
+  - {t: 181, title: "How to Hold and Use the Knife and Fork"}
+  - {t: 286, title: "Napkin Etiquette, From the First Minute…"}
+  - {t: 346, title: "How to Order Wine, and How to Taste It"}
+  - {t: 515, title: "Tipping in the United States"}
+  - {t: 578, title: "Who Pays"}
+  - {t: 690, title: "Holiday Dinners"}
+  - {t: 759, title: "Product picks"}
+  - {t: 840, title: "FAQ"}
 ---
 
 Table manners for gentlemen are not a set of tricks designed to catch you out. They are a quiet way of making the people at your table comfortable, whether you are hosting a Christmas dinner, sitting through a client lunch, or taking someone to a restaurant you chose with care. The holiday season in the United States is when these habits are tested most often: more formal place settings, longer wine lists, and more business dinners dressed up as celebrations. This guide covers the cutlery, the napkin and the glasses, how to order wine, what to do with your phone, how to tip, and who should pay — at a business meal and on a date.
