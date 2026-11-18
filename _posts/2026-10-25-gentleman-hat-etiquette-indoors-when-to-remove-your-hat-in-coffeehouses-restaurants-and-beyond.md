@@ -14,7 +14,16 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-in-brown-jacket-waving-hat-on-the-roadside-7499210/"
 audio: /assets/audio/gentleman-hat-etiquette-indoors-when-to-remove-your-hat-in-coffeehouses-restaurants-and-beyond.mp3
 audio_voice: Andrew
-audio_duration: "18:46"
+audio_duration: "18:47"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 204, title: "Where to Take Your Hat Off and Where It…"}
+  - {t: 420, title: "Where to Put Your Hat"}
+  - {t: 483, title: "How to Hold, Tip and Doff Your Hat"}
+  - {t: 677, title: "Cultural Differences"}
+  - {t: 838, title: "Choosing a Quality Hat for Autumn and…"}
+  - {t: 901, title: "Premium Picks for Autumn and Winter"}
+  - {t: 1036, title: "FAQ"}
 ---
 
 Autumn is hat season again. A good felt fedora or trilby keeps off the drizzle, frames a well-groomed beard and finishes an overcoat like nothing else. But a proper hat comes with a small responsibility many men have forgotten: knowing **when to take it off**.

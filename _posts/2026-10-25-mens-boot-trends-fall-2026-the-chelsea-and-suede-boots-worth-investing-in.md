@@ -15,6 +15,9 @@ image_source_url: "https://www.pexels.com/photo/a-person-tying-the-lace-of-his-b
 audio: /assets/audio/mens-boot-trends-fall-2026-the-chelsea-and-suede-boots-worth-investing-in.mp3
 audio_voice: Ryan
 audio_duration: "5:57"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 293, title: "FAQ"}
 ---
 
 The clocks have gone back, the sidewalks are wet, and it is officially boot season. The big men's boot trends for fall 2026 are clear: the Chelsea boot is back at the center, toes are getting a little sharper, suede is getting softer and richer, and rugged lug soles are moving from the trail into the city.
