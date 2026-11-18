@@ -12,6 +12,20 @@ image_credit: "Michael Morse on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/person-sitting-and-wearing-dress-pants-and-shoes-2989593/"
+audio: /assets/audio/modern-gentleman-etiquette-2026-first-impressions-and-conduct.mp3
+audio_voice: Ryan
+audio_duration: "23:15"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 72, title: "Key takeaways"}
+  - {t: 165, title: "First Impressions"}
+  - {t: 257, title: "Introductions and the Handshake"}
+  - {t: 468, title: "Conversation"}
+  - {t: 663, title: "Smartphone Etiquette in Company"}
+  - {t: 753, title: "How to Be a Good Host, and a Good Guest"}
+  - {t: 901, title: "Holiday-Season Party Conduct"}
+  - {t: 1119, title: "Digital and Social Media Manners"}
+  - {t: 1261, title: "FAQ: Modern Gentleman Etiquette"}
 ---
 
 Modern gentleman etiquette is not a set of traps designed to catch a man out. It is a quiet way of putting other people at ease: in a Midtown lobby, at a Thanksgiving dinner, at a December cocktail party in New York, or in a first meeting where a name will be remembered or forgotten within a minute. The rules have been updated for smartphones and social media, but the standard has not changed. A man is still judged first by how he arrives, how he greets people, and how he behaves when no one of importance is watching.

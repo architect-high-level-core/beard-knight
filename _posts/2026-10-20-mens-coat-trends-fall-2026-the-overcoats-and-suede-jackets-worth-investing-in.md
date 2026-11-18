@@ -14,7 +14,18 @@ image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-leaning-on-a-column-3205991/"
 audio: /assets/audio/mens-coat-trends-fall-2026-the-overcoats-and-suede-jackets-worth-investing-in.mp3
 audio_voice: Andrew
-audio_duration: "13:28"
+audio_duration: "13:29"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 65, title: "The Wool Overcoat Is Still the Anchor…"}
+  - {t: 154, title: "Chocolate Brown Is the New Black for…"}
+  - {t: 237, title: "The Camel Topcoat"}
+  - {t: 316, title: "Suede Shirt Jackets"}
+  - {t: 389, title: "The Suede Chore Coat Goes Military…"}
+  - {t: 466, title: "The Barn Jacket Stays, and Gets More…"}
+  - {t: 535, title: "How to Care for a Premium Wool Coat"}
+  - {t: 602, title: "How to Choose the Right Coat for Your…"}
+  - {t: 716, title: "FAQ"}
 ---
 
 The first truly cold mornings of October settle one question fast: what you wear over everything else. A coat is the first thing people see and often the last thing you take off, so it does more for your image than almost any other piece in your closet. **Men's coat trends for fall 2026** reward men who buy fewer, better pieces: a serious wool overcoat, a camel topcoat with real character, and suede in warm, deep browns.

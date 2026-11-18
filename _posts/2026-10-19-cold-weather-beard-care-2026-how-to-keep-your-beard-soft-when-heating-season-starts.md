@@ -15,6 +15,15 @@ image_source_url: "https://www.pexels.com/photo/a-man-in-black-knitted-cap-and-b
 audio: /assets/audio/cold-weather-beard-care-2026-how-to-keep-your-beard-soft-when-heating-season-starts.mp3
 audio_voice: Ryan
 audio_duration: "16:00"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 67, title: "Why Cold Air and Indoor Heat Make a…"}
+  - {t: 187, title: "The Morning That Actually Works"}
+  - {t: 347, title: "Skin-First Under the Beard"}
+  - {t: 463, title: "Softer Outlines and a Fuller Winter…"}
+  - {t: 593, title: "What Men Are Buying in October 2026"}
+  - {t: 673, title: "Product Picks"}
+  - {t: 805, title: "FAQ: Cold Weather Beard Care"}
 ---
 
 The week the heat comes on, many beards change personality. Hair that felt fine in September turns wiry. The skin underneath feels tight. Scarves leave the cheeks looking fluffier by lunch. **Cold weather beard care** is not a thicker coat of product and it is not a growth experiment. It is a finish problem: put moisture back on hair you already have, calm the skin under it, then lock a light shape so the fuller winter length still looks deliberate.
