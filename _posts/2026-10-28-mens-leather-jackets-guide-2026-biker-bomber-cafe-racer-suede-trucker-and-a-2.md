@@ -14,7 +14,17 @@ image_source_url: "https://www.pexels.com/photo/brown-jacket-and-hat-hanging-on-
 image: /assets/img/2026-10-28-mens-leather-jackets-guide-2026.jpg
 audio: /assets/audio/mens-leather-jackets-guide-2026-biker-bomber-cafe-racer-suede-trucker-and-a-2.mp3
 audio_voice: Ryan
-audio_duration: "18:06"
+audio_duration: "18:07"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 150, title: "The Biker Jacket"}
+  - {t: 420, title: "The A-2 Flight Jacket"}
+  - {t: 502, title: "Leathers Explained"}
+  - {t: 594, title: "How Should a Leather Jacket Fit?"}
+  - {t: 672, title: "How to Care for a Leather Jacket"}
+  - {t: 742, title: "Leather Jacket Trends for Fall/Winter…"}
+  - {t: 859, title: "Premium Leather Jackets Worth Buying in…"}
+  - {t: 953, title: "Frequently Asked Questions"}
 ---
 
 A great leather jacket is the rare piece of menswear that gets better the more you wear it. It takes the shape of your shoulders, darkens where your hands rest, and after a decade it tells a story no new garment can. This men's leather jackets guide for 2026 covers the five silhouettes worth knowing (the biker, the bomber, the café racer, the suede trucker and the A-2 flight jacket), the leathers behind them, how a leather jacket should fit, how to care for it, and which premium jackets are worth the investment this fall and winter.

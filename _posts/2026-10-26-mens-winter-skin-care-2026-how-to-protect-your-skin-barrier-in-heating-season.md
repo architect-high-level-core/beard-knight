@@ -14,6 +14,16 @@ image: /assets/img/2026-10-26-mens-winter-skin-care-2026-v2.jpg
 audio: /assets/audio/mens-winter-skin-care-2026-how-to-protect-your-skin-barrier-in-heating-season.mp3
 audio_voice: Guy
 audio_duration: "14:54"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 76, title: "Barrier Repair Is the Skin Care Trend…"}
+  - {t: 165, title: "The Texture Switch"}
+  - {t: 258, title: "Retinol in Winter"}
+  - {t: 355, title: "SPF in Winter"}
+  - {t: 455, title: "Wash Less, Moisturize Faster, Skip the…"}
+  - {t: 543, title: "Under the Beard"}
+  - {t: 691, title: "Product Picks"}
+  - {t: 809, title: "FAQ"}
 ---
 
 The radiator clicks on, the wind turns sharp, and within a week your face feels tight by noon. Men's winter skin care is not about adding ten new steps. It is about protecting one thing: your skin barrier. Here is what dermatologists, grooming editors and the latest search data say about keeping your face (and the skin under your beard) calm, comfortable and sharp all season.

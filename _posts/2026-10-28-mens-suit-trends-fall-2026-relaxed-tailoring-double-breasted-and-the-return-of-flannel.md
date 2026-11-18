@@ -15,6 +15,12 @@ image_source_url: "https://www.pexels.com/photo/man-in-black-suit-jacket-wearing
 audio: /assets/audio/mens-suit-trends-fall-2026-relaxed-tailoring-double-breasted-and-the-return-of-flannel.mp3
 audio_voice: Andrew
 audio_duration: "11:17"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 115, title: "The Low Double-Breasted Suit Is the…"}
+  - {t: 180, title: "Grey Flannel Is Back on the Runway and…"}
+  - {t: 489, title: "Product Picks"}
+  - {t: 594, title: "FAQ"}
 ---
 
 The suit is back, but not the stiff, shrunken one from a decade ago. Men's suit trends for fall 2026 point to softer shoulders, fuller trousers, lower double-breasted closures and cloth you want to touch: flannel, corduroy and velvet. Here is what the runways, the best tailors and the leading menswear editors say about dressing well in tailoring this fall and winter, beard included.

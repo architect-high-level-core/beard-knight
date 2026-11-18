@@ -14,7 +14,16 @@ image_source_url: "https://www.pexels.com/photo/cozy-knitted-winter-hats-on-wood
 image: /assets/img/2026-10-28-beanie-vs-hat.jpg
 audio: /assets/audio/beanie-vs-hat-when-to-wear-a-knit-beanie-felt-hat-or-flat-cap.mp3
 audio_voice: Ryan
-audio_duration: "14:29"
+audio_duration: "14:30"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 101, title: "The Short Answer"}
+  - {t: 171, title: "When to Wear a Knit Beanie"}
+  - {t: 270, title: "When to Wear a Felt Hat"}
+  - {t: 346, title: "When to Wear a Flat Cap"}
+  - {t: 491, title: "Hair and Hat Hair"}
+  - {t: 684, title: "Our Premium Picks"}
+  - {t: 757, title: "Frequently Asked Questions"}
 ---
 
 When the temperature drops, every man faces the same question at the front door: beanie or hat? A soft cashmere beanie, a fur felt fedora and a tweed flat cap all keep your head warm, but they say very different things. One is relaxed and sporty, one is elegant and deliberate, and one sits somewhere in between. This guide explains when to wear a knit beanie versus a felt hat or a flat cap, how to pair each with your coats, what really matters for warmth, how headwear affects your hair and beard, and which premium makers are worth your money this winter.
