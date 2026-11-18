@@ -12,6 +12,20 @@ image_credit: "Tima Miroshnichenko"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/man-fixing-his-necktie-6766243/"
+audio: /assets/audio/mens-dress-shirt-guide-2026-collars-fabrics-fit.mp3
+audio_voice: Andrew
+audio_duration: "20:13"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 147, title: "The two-shirt foundation"}
+  - {t: 255, title: "The 2026 office"}
+  - {t: 360, title: "Poplin, twill, pinpoint or oxford"}
+  - {t: 477, title: "How a dress shirt should fit"}
+  - {t: 586, title: "Charvet, Turnbull and Asser and the…"}
+  - {t: 696, title: "Sea Island cotton, two-fold yarns and…"}
+  - {t: 816, title: "How to wash and iron a dress shirt like…"}
+  - {t: 912, title: "Skip the dry cleaner"}
+  - {t: 1120, title: "FAQ"}
 ---
 
 The dress shirt is the most-worn piece of tailoring a man owns, and the one he thinks about least. A suit gets a fitting, shoes get a cobbler, a watch gets a service. The shirt, meanwhile, is bought in a hurry, washed too hot, ironed with the collar stays still inside and replaced when the collar frays. That is a waste, because nothing frames the face, the beard and the tie knot as closely as the collar of a well-made shirt.
