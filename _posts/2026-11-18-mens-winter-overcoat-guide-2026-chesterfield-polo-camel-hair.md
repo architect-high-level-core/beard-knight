@@ -12,6 +12,19 @@ image_credit: "GlassesShop GS on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/stylish-man-in-beige-overcoat-on-city-street-29571692/"
+audio: /assets/audio/mens-winter-overcoat-guide-2026-chesterfield-polo-camel-hair.mp3
+audio_voice: Andrew
+audio_duration: "22:23"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 69, title: "Key takeaways"}
+  - {t: 183, title: "The Classic Cuts"}
+  - {t: 626, title: "Cloth, Fibre and Weight"}
+  - {t: 783, title: "Fit and Length Over a Suit"}
+  - {t: 864, title: "Navy, Charcoal and Camel"}
+  - {t: 926, title: "Houses and Coats, With the Prices as…"}
+  - {t: 1095, title: "Care and Storage"}
+  - {t: 1189, title: "FAQ: Men's Winter Overcoats"}
 ---
 
 A winter overcoat is the garment the room sees first and the one that has to work the hardest. It goes over a navy suit on a Monday in midtown and over flannel and a cashmere crew-neck at the weekend, and it has to do both without looking borrowed. In 2026 the American gentleman is not hunting for a trend coat. He wants a cut with a name, a cloth with a weight, and a colour that will still look right in ten winters.
