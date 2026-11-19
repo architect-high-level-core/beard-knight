@@ -12,6 +12,20 @@ image_credit: "Mustafa Saati"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/stylish-man-in-urban-winter-street-setting-30994243/"
+audio: /assets/audio/mens-winter-fragrance-guide-2026.mp3
+audio_voice: Ryan
+audio_duration: "20:04"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 132, title: "Why winter colognes smell different"}
+  - {t: 285, title: "The award winners"}
+  - {t: 381, title: "Eau de toilette, eau de parfum or…"}
+  - {t: 508, title: "How to apply cologne in winter"}
+  - {t: 629, title: "Moisturized skin and the \"don't rub\"…"}
+  - {t: 738, title: "Layering, collars and scarves"}
+  - {t: 834, title: "How to store expensive fragrance"}
+  - {t: 953, title: "Office vs"}
+  - {t: 1090, title: "FAQ"}
 ---
 
 Cold air changes everything about the way a fragrance behaves. The bright citrus cologne that felt effortless in July disappears before you reach the car in December, while a dense amber that would have been suffocating in August suddenly feels exactly right with a wool overcoat and a cashmere scarf. Winter is the season when a man's fragrance wardrobe either works hard or quietly fails.
