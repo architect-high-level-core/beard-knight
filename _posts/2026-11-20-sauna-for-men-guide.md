@@ -12,6 +12,20 @@ image_credit: "HUUM"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/modern-wooden-sauna-with-heater-and-stones-33517867/"
+audio: /assets/audio/sauna-for-men-guide.mp3
+audio_voice: Andrew
+audio_duration: "16:47"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 137, title: "The Finnish Sauna Study Every Man…"}
+  - {t: 231, title: "What Happens to Your Body in the Heat"}
+  - {t: 311, title: "How Long Should You Stay in a Sauna…"}
+  - {t: 443, title: "Sauna and Cold Plunge"}
+  - {t: 540, title: "Sauna Etiquette"}
+  - {t: 637, title: "The Luxury Home Sauna Comes to America"}
+  - {t: 737, title: "Post-Sauna Skin and Beard Care"}
+  - {t: 831, title: "Our Picks"}
+  - {t: 897, title: "Sauna for Men"}
 ---
 November is when the sauna stops being a vacation habit and becomes a weekly ritual. The mornings are dark, training leaves the legs heavy, and a long day at the desk settles in the shoulders. Twenty minutes of dry heat fixes more of that than most gadgets on the market. But the sauna for men is often done badly: too long, too hot, straight after drinks, and followed by a beard that feels like straw the next morning.
 
