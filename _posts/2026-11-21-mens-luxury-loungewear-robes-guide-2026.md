@@ -12,6 +12,20 @@ image_credit: "مآمثلي آحد"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/bathrobes-hanging-on-a-wooden-rack-27135366/"
+audio: /assets/audio/mens-luxury-loungewear-robes-guide-2026.mp3
+audio_voice: Ryan
+audio_duration: "19:07"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 139, title: "The Robe Is Back, and the Fabric…"}
+  - {t: 279, title: "Cashmere Robes"}
+  - {t: 375, title: "The Return of the Proper Pajama Set"}
+  - {t: 494, title: "Brushed Cotton for Winter and the \"Door…"}
+  - {t: 606, title: "The Cashmere Lounge Set Replaces the…"}
+  - {t: 700, title: "Velvet Albert Slippers and the Art of…"}
+  - {t: 794, title: "Dress for a Cool Bedroom"}
+  - {t: 885, title: "How to Wash a Robe So It Stays Soft for…"}
+  - {t: 1044, title: "Men's Luxury Loungewear"}
 ---
 There is a moment on a dark November evening when the tailoring comes off, the shoes go back on their trees and the question becomes: what does a well-dressed man actually wear at home? For too many men the answer is a faded college sweatshirt and gym shorts. Yet the hours between the front door and the pillow are the hours you spend with the people who matter most, and the hours you spend alone with a book, a glass and your own thoughts. They deserve better.
 
