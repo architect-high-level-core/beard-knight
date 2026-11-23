@@ -12,6 +12,20 @@ image_credit: "Peter Chirkov"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-man-with-a-duffel-bag-wearing-a-brown-coat-14039961/"
+audio: /assets/audio/mens-luxury-weekender-bag-guide.mp3
+audio_voice: Andrew
+audio_duration: "20:01"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 134, title: "Choosing the Right Size"}
+  - {t: 254, title: "Full-Grain vs Top-Grain vs…"}
+  - {t: 348, title: "The Construction Details That Make an…"}
+  - {t: 452, title: "How to Pack a Weekender Bag, Step by…"}
+  - {t: 562, title: "The Business-Trip Method"}
+  - {t: 643, title: "The Gentleman's Dopp Kit and the TSA…"}
+  - {t: 761, title: "How to Clean and Condition a Leather…"}
+  - {t: 976, title: "Premium Weekender Picks Worth Knowing"}
+  - {t: 1095, title: "Frequently Asked Questions"}
 ---
 
 A luxury weekender bag is the most honest piece of luggage a man can own. It has no wheels to hide behind and no telescoping handle to disguise poor proportions. It is carried by hand or over the shoulder, it sits beside you in the lounge, and it goes into the overhead bin or the trunk of the car looking exactly as good, or as tired, as the leather it was cut from. That is why the leather weekender bag has become the quiet signature of the well-traveled man: a carry-on duffel that ages with him, collects a patina from every trip and, if chosen well, outlasts several generations of hard-shell rollers.
