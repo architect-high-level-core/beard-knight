@@ -12,6 +12,20 @@ image_credit: "Mikhail Nilov"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/a-bearded-man-drinking-coffee-6972768/"
+audio: /assets/audio/gentleman-coffee-ritual-guide-2026.mp3
+audio_voice: Guy
+audio_duration: "19:43"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 137, title: "The Golden Cup"}
+  - {t: 295, title: "Why a Burr Grinder Is the Most…"}
+  - {t: 433, title: "Matching Grind Size and Brew Time to…"}
+  - {t: 526, title: "The Pour-Over Ritual, Step by Step"}
+  - {t: 648, title: "How to Dial In Espresso on a Home…"}
+  - {t: 754, title: "How to Store Coffee Beans So They Stay…"}
+  - {t: 860, title: "Caffeine, Timing and Health"}
+  - {t: 957, title: "Premium Coffee Equipment Worth Owning"}
+  - {t: 1064, title: "Frequently Asked Questions"}
 ---
 
 Every man of standards has a few rituals that set the tone for the day. A close shave, a well-pressed shirt, a watch wound before breakfast. For a growing number of men, the most rewarding of these rituals is the first cup of coffee, made at home, by hand, with the same care a good tailor gives to a buttonhole. A gentleman's coffee ritual is not about chasing the latest café trend. It is about understanding a handful of variables, investing in a few tools that will last for years and turning ten quiet minutes into the best part of the morning.
