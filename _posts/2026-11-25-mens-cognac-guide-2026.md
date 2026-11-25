@@ -12,6 +12,19 @@ image_credit: "Marta Dzedyshko"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/6341420/"
+audio: /assets/audio/mens-cognac-guide-2026.mp3
+audio_voice: Andrew
+audio_duration: "20:12"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 130, title: "What Is Cognac?"}
+  - {t: 268, title: "What Do VS, VSOP, XO and XXO Mean on a…"}
+  - {t: 394, title: "How Do You Drink Cognac Neat?"}
+  - {t: 494, title: "Can You Drink Cognac with Ice, Water or…"}
+  - {t: 625, title: "How Do the Crus and the Major Houses…"}
+  - {t: 779, title: "How Should You Store and Serve Cognac…"}
+  - {t: 898, title: "Which Cognac Bottles Are Worth Buying…"}
+  - {t: 1080, title: "Frequently Asked Questions"}
 ---
 
 Cognac is a French oak-aged grape brandy, distilled in the Cognac region of western France and governed by the Bureau National Interprofessionnel du Cognac, the BNIC. It is not a generic "brown spirit," and it is not whisky. For a man who wants a serious digestif, a winter aperitif or a bottle worth opening when a guest sits down after dinner, it is one of the most complete drinks he can learn. This guide explains what cognac is, what the letters VS, VSOP, XO and XXO actually mean, how to taste it neat in a tulip glass, when ice or a mixer is appropriate, how the crus differ, how to store a bottle at home, and three bottles listed on U.S. retail pages at the time of writing.
