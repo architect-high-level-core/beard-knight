@@ -12,6 +12,19 @@ image_credit: "Alexander Mass"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/40525757/"
+audio: /assets/audio/art-of-conversation-for-gentlemen-2026.mp3
+audio_voice: Andrew
+audio_duration: "17:15"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 116, title: "What Is the Art of Conversation?"}
+  - {t: 213, title: "How Do You Start Small Talk Without…"}
+  - {t: 333, title: "How Do You Actually Listen in a…"}
+  - {t: 458, title: "Which Topics Should a Gentleman Raise…"}
+  - {t: 586, title: "How Do You Handle a Group, and How Do…"}
+  - {t: 699, title: "How Should a Gentleman Converse at the…"}
+  - {t: 806, title: "What Should You Do with a Phone During…"}
+  - {t: 911, title: "Frequently Asked Questions"}
 ---
 
 The art of conversation is the skill of putting another person at ease and of being good company without performing. It is not a lecture, a debate or a sales pitch, and it is not the same as the first handshake or the formal rules of a dinner table. A man who can begin a small exchange, listen properly, choose a subject with tact and leave a circle without awkwardness will be invited back. This guide draws on Debrett's and Emily Post: how to start small talk, how to listen, which topics to raise or avoid, how to manage a group, how to talk at dinner, and what to do with a phone.
