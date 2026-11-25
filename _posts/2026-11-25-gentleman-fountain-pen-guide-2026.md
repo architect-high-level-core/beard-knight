@@ -12,6 +12,19 @@ image_credit: "Elisabeth Ende"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/fountain-pen-on-white-surface-7431849/"
+audio: /assets/audio/gentleman-fountain-pen-guide-2026.mp3
+audio_voice: Andrew
+audio_duration: "21:08"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 151, title: "What Is a Fountain Pen, and Why Does It…"}
+  - {t: 246, title: "How Do Nibs, Filling Systems and Ink…"}
+  - {t: 407, title: "What Should You Look For in a First…"}
+  - {t: 552, title: "How Do You Care for a Fountain Pen?"}
+  - {t: 671, title: "What Paper and Ink Belong With a Good…"}
+  - {t: 799, title: "How Do You Write and Send a Letter Well…"}
+  - {t: 958, title: "Which Fountain Pens Are Worth Buying in…"}
+  - {t: 1126, title: "Frequently Asked Questions"}
 ---
 
 A fountain pen is a writing instrument that feeds liquid ink through a metal nib, rather than a ball or a fibre tip. It is not a dip pen, and it is not a souvenir that lives in a drawer. For a man who still signs a letter, a card or a document with his own hand, it is one of the few tools that can be both practical and quietly ceremonial. This guide explains what a fountain pen is, how nibs and filling systems actually work, what to look for in a first serious pen, how to care for it, which paper and ink belong with it, how to write and send a letter in 2026, and three pens listed on U.S. pages at the time of writing: the Lamy 2000, the Pelikan M800 and the Montblanc Meisterstück Gold-Coated 149.
