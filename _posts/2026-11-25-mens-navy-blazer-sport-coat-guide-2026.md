@@ -12,6 +12,19 @@ image_credit: "Vanessa Garcia"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/photo-of-man-wearing-dark-blue-blazer-6325964/"
+audio: /assets/audio/mens-navy-blazer-sport-coat-guide-2026.mp3
+audio_voice: Guy
+audio_duration: "21:08"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 129, title: "What Is the Difference Between a…"}
+  - {t: 281, title: "Why Is a Navy Blazer the First Odd…"}
+  - {t: 435, title: "How Should a Navy Blazer or Sport Coat…"}
+  - {t: 570, title: "What Should You Wear With a Navy Blazer?"}
+  - {t: 697, title: "When Should You Choose a Sport Coat…"}
+  - {t: 816, title: "How Do You Care for a Wool Blazer or…"}
+  - {t: 935, title: "Which Navy Blazers and Sport Coats Are…"}
+  - {t: 1108, title: "Frequently Asked Questions"}
 ---
 
 A navy blazer is a solid navy odd jacket, traditionally finished with metal or contrasting buttons, cut to be worn with trousers that do not match it. It is not a suit jacket, and it is not quite a sport coat. For a man who already owns a navy or charcoal suit and is building a wardrobe that works from Monday morning to Saturday dinner, it is the single most useful jacket he can add. This guide explains the difference between a blazer, a sport coat and a suit jacket, how a navy blazer should fit, what to wear with it, when a textured sport coat is the better choice, how to care for wool, and three jackets worth buying in 2026, with prices as they appear on the product pages.
