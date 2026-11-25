@@ -12,6 +12,20 @@ image_credit: "cottonbro studio"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/bearded-man-lifting-a-dumbbell-6293108/"
+audio: /assets/audio/strength-training-for-men-over-40-guide-2026.mp3
+audio_voice: Andrew
+audio_duration: "20:15"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 149, title: "Sarcopenia"}
+  - {t: 280, title: "How to Start Strength Training After 40"}
+  - {t: 425, title: "The Minimum Effective Dose"}
+  - {t: 566, title: "The Best Workout Plan for Men Over 40"}
+  - {t: 665, title: "Mobility for Men Over 40"}
+  - {t: 753, title: "How Much Protein Do Men Over 40 Need?"}
+  - {t: 889, title: "Recovery, Rest Days and Sleep"}
+  - {t: 995, title: "Premium Home-Gym Equipment Worth Owning"}
+  - {t: 1097, title: "Frequently Asked Questions"}
 ---
 
 There is a moment, usually somewhere after a man's fortieth birthday, when the body sends its first quiet memo. The suitcase feels heavier on the stairs. The shoulder complains after a weekend of gardening. The shirts still button, but the shape inside them has softened. None of this is a verdict. It is information, and the most useful response to it is not a crash diet or a punishing boot camp but a well-designed strength training program for men over 40.
