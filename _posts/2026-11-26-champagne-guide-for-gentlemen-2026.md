@@ -12,6 +12,20 @@ image_credit: "Nati on Pexels"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/close-up-of-sparkling-champagne-bubbles-38962887/"
+audio: /assets/audio/champagne-guide-for-gentlemen-2026.mp3
+audio_voice: Ryan
+audio_duration: "21:16"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 149, title: "Extra brut and brut nature"}
+  - {t: 258, title: "Grower Champagne vs"}
+  - {t: 413, title: "The serving temperature"}
+  - {t: 517, title: "Tulip glass vs"}
+  - {t: 630, title: "Opening the bottle"}
+  - {t: 751, title: "Food pairing"}
+  - {t: 900, title: "Vintage vs"}
+  - {t: 1028, title: "The gentleman's picks"}
+  - {t: 1162, title: "FAQ: Champagne questions men ask"}
 ---
 Every holiday season, a man reaches the same decision point: which Champagne to buy, how to serve it, and what to put on the table next to it. This Champagne guide for gentlemen answers those questions for 2026. It starts on the American Thanksgiving table and runs through Christmas and New Year's Eve. You don't need to memorize a wine atlas. You need to read a label in ten seconds, chill the bottle properly, open it without a gunshot pop, pour it into the right glass, and match the style to the food. These are the details that separate the host who simply buys an expensive bottle from the man who actually knows how to choose, serve and pair Champagne.
 
