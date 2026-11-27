@@ -12,6 +12,20 @@ image_credit: "Pits Riccardo"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/raw-beef-on-table-11898916/"
+audio: /assets/audio/luxury-steak-guide-2026.mp3
+audio_voice: Andrew
+audio_duration: "23:46"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 197, title: "What is the difference between USDA…"}
+  - {t: 304, title: "Is Wagyu worth it?"}
+  - {t: 456, title: "What is dry-aged steak and is it worth…"}
+  - {t: 575, title: "How do you cook a dry-aged steak in a…"}
+  - {t: 713, title: "What is the reverse sear and when…"}
+  - {t: 923, title: "What temperature should steak be cooked…"}
+  - {t: 1019, title: "What wine goes best with steak?"}
+  - {t: 1146, title: "Which tools does a serious home steak…"}
+  - {t: 1318, title: "FAQ: Steak questions men ask most"}
 ---
 
 **A perfect steak at home comes down to four decisions: the right grade, the right aging, the right heat and the patience to rest it.** A thick USDA Prime or well-marbled dry-aged ribeye, seasoned with nothing more than salt and pepper, seared hard in cast iron or reverse-seared, pulled at about 52–54 °C and rested for a few minutes, will rival most steakhouses. This guide walks through each step with the sources that matter: the USDA's own beef-grade guidance, butchers and food scientists, and Wine Spectator's pairing advice.
