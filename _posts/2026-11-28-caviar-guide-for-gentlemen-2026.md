@@ -12,6 +12,19 @@ image_credit: "Denys Gromov"
 image_license: "Pexels License"
 image_license_url: "https://www.pexels.com/license/"
 image_source_url: "https://www.pexels.com/photo/black-caviar-12645210/"
+audio: /assets/audio/caviar-guide-for-gentlemen-2026.mp3
+audio_voice: Guy
+audio_duration: "24:01"
+audio_chapters:
+  - {t: 0, title: "Intro"}
+  - {t: 145, title: "What is caviar, and which sturgeon…"}
+  - {t: 335, title: "What do caviar grades, \"malossol\" and…"}
+  - {t: 539, title: "Is Beluga caviar illegal in the US, and…"}
+  - {t: 712, title: "How do you serve caviar properly at…"}
+  - {t: 904, title: "What should you drink and eat with…"}
+  - {t: 1069, title: "Why is caviar trending in 2026, from…"}
+  - {t: 1234, title: "Our caviar picks for the 2026 holiday…"}
+  - {t: 1328, title: "Frequently asked questions"}
 ---
 
 **Buying good caviar comes down to three questions: which sturgeon it comes from, how well the batch was handled and how cold you keep it until the moment it is served.** Read the scientific name on the tin, ignore most of the marketing words, choose malossol (lightly salted) roe with nothing in it but sturgeon eggs and salt, keep it at about −2 to +2 °C on crushed ice and serve it from a mother-of-pearl spoon with a glass of brut Champagne or ice-cold vodka. That is the whole art. This caviar guide explains each step with the sources that matter: specialist caviar houses, Serious Eats' 2026 caviar testing, the US Fish and Wildlife Service and Forbes' reporting on why caviar is suddenly everywhere again.
